@@ -22,6 +22,9 @@ tbl_9 = read_data_file("Table 9_Total Annual Household Income Relative to Derive
 
 dataframes = list(
   hud_2022,
+  tbl_4,
+  tbl_8,
+  tbl_9,
   tbl_10,
   tbl_11,
   tbl_12
