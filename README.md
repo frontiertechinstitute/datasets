@@ -1,5 +1,4 @@
 # Datasets
----
 ## 2022 LIHTC Tenant Data
  - 46 variables and 38,228 observations
 ### Documentation
