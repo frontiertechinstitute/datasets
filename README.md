@@ -11,4 +11,5 @@ On the original [site](https://www.huduser.gov/portal/datasets/lihtc/tenant.html
  - Columns 27-33 come from *Table 10*
  - Columns 34-36 come from *Table 11*
  - Columns 37-46 come from *Table 12*
+
 Using the given documentation descriptions for each table, you should be able to interpret the column names and are encouraged to rename them for your comprehension.
