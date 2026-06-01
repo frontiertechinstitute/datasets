@@ -1,0 +1,18 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+Summarized Yearly, United States, 2022
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 39063. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsrbibliography@umich.edu
+
+
+1. Januszewski, Andrzej S.; Greene, Coyet D., "An online visualization tool
+for exploring crime patterns around U.S. counties and postsecondary
+institutions." Journal of American College Health. in press 2026,. DOI:
+10.1080/07448481.2026.2630051
