@@ -17,3 +17,11 @@ On the original [site](https://www.huduser.gov/portal/datasets/lihtc/tenant.html
 Using the given documentation descriptions for each table, you should be able to interpret the column names and are encouraged to rename them for your comprehension.
 
 Note - all other files in "2022 LIHTC Tenant Data/data" are raw files from HUD
+
+## 2022 Qatar World Cup
+
+Dataset: **"worldcup_2022_matches.csv"**
+
+ - 9 variables and 60 observations
+### Documentation
+Data comes from football.db's [worldcup](https://github.com/openfootball/worldcup) repo in the 2022--qatar folder, which has been copied to our World Cup/data folder. Any confusion with the data presented in the dataset should be resolved by reading the original text files, *cup.txt* and *cup_finals.txt*, and the code in *make_csv.R* (you can review text processing and *regular expressions* [here](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)). 
