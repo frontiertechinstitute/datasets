@@ -1,0 +1,131 @@
+File Manifest for ICPSR 37679
+
+Costello, Matthew, James Hawdon, and David Snow. Radicalization on the
+Internet: Virtual Extremism in the United States, 2015-2017. ICPSR37679-v1.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2023-03-29. http://doi.org/10.3886/ICPSR37679.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37679-descriptioncitation.pdf       -       -         -       2023-03-29  -
+
+    37679-related_literature.txt        -       -         -       daily       -
+
+    37679-manifest.txt                  -       -         -       daily       -
+
+    37679-User_guide.pdf                -       -         -       2023-03-29  f4b0b4bbb2d9adff0ffca23f4bbbfb37
+
+
+DS0001 Online Extremism Survey Data Wave 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37679-0001-Codebook-ICPSR.pdf       -       -         -       2023-03-29  3ce95283cb7b7f093970318990fc3376
+
+    37679-0001-Codebook-PI.pdf          -       -         -       2023-03-29  d9430986035d39f76ad4cabc59495a9c
+
+    37679-0001-Data.dta                 -       1,034     121     2023-03-29  25aceaadc40cf1856f3fe96b7138447d
+
+    37679-0001-Data.rda                 -       1,034     121     2023-03-29  02e27a21078a667685a51ba2a68206d2
+
+    37679-0001-Data.sav                 -       1,034     121     2023-03-29  d3cdae9deef84ba0488189101951a38a
+
+    37679-0001-Data.stc                 -       1,034     121     2023-03-29  d8af497ee736c55da316b20d476ef7e2
+
+    37679-0001-Data.tsv                 -       1,034     121     2023-03-29  30129f034c29be77869c8161e3a5a244
+
+    37679-0001-Data.txt                 173     1,034     121     2023-03-29  eb30bc938c501ca6fee8ca27f35c91e6
+
+    37679-0001-Questionnaire.pdf        -       -         -       2023-03-29  6359eb50459bcb259832101e3a5e1b71
+
+    37679-0001-Setup.dct                -       -         -       2023-03-29  b401bf6d2d952109949849c9ad7bde06
+
+    37679-0001-Setup.do                 -       -         -       2023-03-29  9ae443e3e62da69778bd0296d7e287cb
+
+    37679-0001-Setup.sas                -       -         -       2023-03-29  70a3d625592e7629e1ebc947af55eeee
+
+    37679-0001-Setup.sps                -       -         -       2023-03-29  0830bb53896837b0f7fbf4389f304fcd
+
+    37679-0001-Supplemental_syntax.do   -       -         -       2023-03-29  48217a1bbc983f854afa7d766dc35b49
+
+    37679-0001-Supplemental_syntax.sas  -       -         -       2023-03-29  e233ffd0f98eb0e965a26a0178b2eec1
+
+
+DS0002 Online Extremism Survey Data Wave 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37679-0002-Codebook-ICPSR.pdf       -       -         -       2023-03-29  b68894f9580441f3725516a28e630ac3
+
+    37679-0002-Codebook-PI.pdf          -       -         -       2023-03-29  542bd577ee8d6e1eeee622878a113728
+
+    37679-0002-Data.dta                 -       1,031     151     2023-03-29  ca44cb34f9d74aa32b4d87b522f6f122
+
+    37679-0002-Data.rda                 -       1,031     151     2023-03-29  0ec7aaa16c297ff1c58a183d6b4b9dcd
+
+    37679-0002-Data.sav                 -       1,031     151     2023-03-29  c6f1aebf5b3fb5c56d196847556e1dcf
+
+    37679-0002-Data.stc                 -       1,031     151     2023-03-29  da2d5b1f7a32d29632dff06a79adc51c
+
+    37679-0002-Data.tsv                 -       1,031     151     2023-03-29  d7cd25745ef51d4c2f52295dedf5e298
+
+    37679-0002-Data.txt                 252     1,031     151     2023-03-29  cd6ef677c5083bb4296699db3e39aa70
+
+    37679-0002-Questionnaire.pdf        -       -         -       2023-03-29  5d34af0167e8dfd16d431d88b1399e91
+
+    37679-0002-Setup.dct                -       -         -       2023-03-29  65fa55b1c61a3160f0667c6b56ab0ad1
+
+    37679-0002-Setup.do                 -       -         -       2023-03-29  3711fe2d7a8ffedd3c37c310090d472e
+
+    37679-0002-Setup.sas                -       -         -       2023-03-29  91c84cdf268d7379398760839e29c143
+
+    37679-0002-Setup.sps                -       -         -       2023-03-29  f2cdfbc8b714d54fe18f1c50a72d5926
+
+
+DS0003 Online Extremism Survey Data Wave 3
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37679-0003-Codebook-ICPSR.pdf       -       -         -       2023-03-29  a5b68a0ef79bd547116cacf9586fdf92
+
+    37679-0003-Codebook-PI.pdf          -       -         -       2023-03-29  0e78890ef368b029fad2c1ad88e83c49
+
+    37679-0003-Data.dta                 -       1,076     158     2023-03-29  48f72f005cbd12299fa15e1f5e9bb3f7
+
+    37679-0003-Data.rda                 -       1,076     158     2023-03-29  f132eca361a0e4c3dca99984078a27b1
+
+    37679-0003-Data.sav                 -       1,076     158     2023-03-29  639fd2d0239939df9d3b63c782481d71
+
+    37679-0003-Data.stc                 -       1,076     158     2023-03-29  b7e1927b1f2e54d5e6360aa7de8ab721
+
+    37679-0003-Data.tsv                 -       1,076     158     2023-03-29  1eb680a4a5717fb1160216034f90eeb0
+
+    37679-0003-Data.txt                 263     1,076     158     2023-03-29  30a7a658d462e19b0bea26e1d156e966
+
+    37679-0003-Questionnaire.pdf        -       -         -       2023-03-29  780d92bbfb5e6c6d74e9ca5e71267f1b
+
+    37679-0003-Setup.dct                -       -         -       2023-03-29  1d68dd3b049a9be330fcfc8361c82fd8
+
+    37679-0003-Setup.do                 -       -         -       2023-03-29  7cd250a09a62b0cdfbe24c2e65c765bc
+
+    37679-0003-Setup.sas                -       -         -       2023-03-29  40e38ae878e67821e10b558c5e7d489a
+
+    37679-0003-Setup.sps                -       -         -       2023-03-29  f72b9af1c8e3bdc3358b2ee4018b0802
+
+
+DS0004 Virtual Ethnography Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37679-0004-Codebook-PI.pdf          -       -         -       2023-03-29  f291dc79f68e220193b69be6eeae0064
+
+    37679-0004-Documentation.xlsx       -       -         -       2023-03-29  c6ac38cb282d8c49aaa22cff25618e87
+
