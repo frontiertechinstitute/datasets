@@ -1,0 +1,49 @@
+tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_name,player_id,given_name,family_name,starter,substitute,minutes_played,total_goals,open_play_goals,penalty_goals,assists,is_knockout,yellow_cards,red_cards
+WC-2006,2006 FIFA Men's World Cup,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,Group C,Argentina,P-14758,Lionel,Messi,0,1,30,1,1,0,0,0,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-40,Netherlands vs Argentina,2006-06-21,group stage,Group C,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-50,Argentina vs Mexico,2006-06-24,round of 16,not applicable,Argentina,P-14758,Lionel,Messi,0,1,30,0,0,0,0,1,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-04,Argentina vs Nigeria,2010-06-12,group stage,Group B,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,Group B,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-35,Greece vs Argentina,2010-06-22,group stage,Group B,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-52,Argentina vs Mexico,2010-06-27,round of 16,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-59,Argentina vs Germany,2010-07-03,quarter-finals,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-11,Argentina vs Bosnia and Herzegovina,2014-06-15,group stage,Group F,Argentina,P-14758,Lionel,Messi,1,0,90,1,1,0,0,0,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-27,Argentina vs Iran,2014-06-21,group stage,Group F,Argentina,P-14758,Lionel,Messi,1,0,90,1,1,0,0,0,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,Group F,Argentina,P-14758,Lionel,Messi,1,0,90,2,2,0,0,0,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-55,Argentina vs Switzerland,2014-07-01,round of 16,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-59,Argentina vs Belgium,2014-07-05,quarter-finals,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-64,Germany vs Argentina,2014-07-13,final,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-06,Argentina vs Iceland,2018-06-16,group stage,Group D,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-23,Argentina vs Croatia,2018-06-21,group stage,Group D,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-40,Nigeria vs Argentina,2018-06-26,group stage,Group D,Argentina,P-14758,Lionel,Messi,1,0,90,1,1,0,0,0,1,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-49,France vs Argentina,2018-06-30,round of 16,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,1,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-05,Argentina vs Saudi Arabia,2022-11-22,group stage,Group C,Argentina,P-14758,Lionel,Messi,1,0,90,1,0,1,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-24,Argentina vs Mexico,2022-11-26,group stage,Group C,Argentina,P-14758,Lionel,Messi,1,0,90,1,1,0,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-39,Poland vs Argentina,2022-11-30,group stage,Group C,Argentina,P-14758,Lionel,Messi,1,0,90,0,0,0,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-50,Argentina vs Australia,2022-12-03,round of 16,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,1,1,0,0,1,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,1,0,1,0,1,1,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-61,Argentina vs Croatia,2022-12-13,semi-finals,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,1,0,1,0,1,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,Argentina,P-14758,Lionel,Messi,1,0,90,2,1,1,0,1,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-08,Angola vs Portugal,2006-06-11,group stage,Group D,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,1,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-24,Portugal vs Iran,2006-06-17,group stage,Group D,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,1,0,1,0,0,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-52,Portugal vs Netherlands,2006-06-25,round of 16,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-62,Portugal vs France,2006-07-05,semi-finals,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,0,0
+WC-2006,2006 FIFA Men's World Cup,M-2006-63,Germany vs Portugal,2006-07-08,third-place match,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-13,Ivory Coast vs Portugal,2010-06-15,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,1,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,1,1,0,0,0,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-46,Portugal vs Brazil,2010-06-25,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,0,0
+WC-2010,2010 FIFA Men's World Cup,M-2010-56,Spain vs Portugal,2010-06-29,round of 16,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-12,Germany vs Portugal,2014-06-16,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-32,United States vs Portugal,2014-06-22,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,0,0
+WC-2014,2014 FIFA Men's World Cup,M-2014-45,Portugal vs Ghana,2014-06-26,group stage,Group G,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,1,1,0,0,0,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-04,Portugal vs Spain,2018-06-15,group stage,Group B,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,3,2,1,0,0,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-18,Portugal vs Morocco,2018-06-20,group stage,Group B,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,1,1,0,0,0,0,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-36,Iran vs Portugal,2018-06-25,group stage,Group B,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,1,0
+WC-2018,2018 FIFA Men's World Cup,M-2018-50,Uruguay vs Portugal,2018-06-30,round of 16,not applicable,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,1,1,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,Group H,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,1,0,1,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-32,Portugal vs Uruguay,2022-11-28,group stage,Group H,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-46,South Korea vs Portugal,2022-12-02,group stage,Group H,Portugal,P-70442,Cristiano,Ronaldo,1,0,90,0,0,0,0,0,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,not applicable,Portugal,P-70442,Cristiano,Ronaldo,0,1,30,0,0,0,0,1,0,0
+WC-2022,2022 FIFA Men's World Cup,M-2022-59,Morocco vs Portugal,2022-12-10,quarter-finals,not applicable,Portugal,P-70442,Cristiano,Ronaldo,0,1,30,0,0,0,0,1,0,0
