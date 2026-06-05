@@ -3,7 +3,7 @@
 ## Dataset Overview
 This dataset provides a curated subset of the **U.S. Department of Education’s College Scorecard**. It integrates historical institutional microdata sourced directly from the **Integrated Postsecondary Education Data System (IPEDS)**, the **National Student Loan Data System (NSLDS)**, and the **Internal Revenue Service (IRS)**. 
 
-To keep your analysis focused and computationally efficient, this file has been pre-filtered to include only **primary main campuses** of **4-year, Bachelor's degree-granting colleges and universities** across the United States, leaving you with a clean laboratory of 2,000+ institutions.
+This file has been pre-filtered to include only **primary main campuses** of **4-year, Bachelor's degree-granting colleges and universities** across the United States
 
 ---
 
