@@ -24,7 +24,8 @@ This file has been pre-filtered to include only **primary main campuses** of **4
 * **`REGION` (Geographic Region Code)**
     * *Type:* Integer (Categorical Key)
     * *Definition:* The broad bureaucratic region mapping of the United States. 
-    * *The Mapping Key:* * `1` = New England
+    * *The Mapping Key:*
+      * `1` = New England
       * `2` = Mid East
       * `3` = Great Lakes
       * `4` = Plains
