@@ -1,4 +1,4 @@
-# Notes - Messi vs. Ronaldo World Cup Challenge
+# Notes - Messi Vs. Ronaldo World Cup
 
 ## 1 Data File
 
@@ -8,19 +8,19 @@
 
 ### **tournament_id**
 * **Type:** String (Text Key)
-* **Definition:** The unique alphanumeric identifier assigned to a specific edition of the FIFA Men's World Cup (e.g., `WC-2006`, `WC-2022`).
+* **Definition:** The unique identifier assigned to a specific edition of the FIFA Men's World Cup (e.g., `WC-2006`, `WC-2022`).
 
 ### **tournament_name**
 * **Type:** String (Text)
-* **Definition:** The official full name of the FIFA World Cup edition (e.g., `2006 FIFA Men's World Cup`).
+* **Definition:** The full name of the FIFA World Cup edition (e.g., `2006 FIFA Men's World Cup`).
 
 ### **match_id**
 * **Type:** String (Text Key)
-* **Definition:** A unique structured key identifying a specific match within a given tournament (e.g., `M-2006-21`).
+* **Definition:** A unique key identifying a specific match within a given tournament (e.g., `M-2006-21`).
 
 ### **match_name**
 * **Type:** String (Text)
-* **Definition:** The team pairing descriptor for the fixture, indicating which countries competed (e.g., `Argentina vs Serbia and Montenegro`, `Portugal vs Spain`).
+* **Definition:** The team pairing descriptor for the match, indicating which countries competed (e.g., `Argentina vs Serbia and Montenegro`, `Portugal vs Spain`).
 
 ### **match_date**
 * **Type:** String (ISO Date Format `YYYY-MM-DD`)
@@ -32,11 +32,11 @@
 
 ### **group_name**
 * **Type:** String (Text)
-* **Definition:** The letter designation of the opening group phase (e.g., `Group B`, `Group C`), or noted as `not applicable` if the fixture took place during the knockout rounds.
+* **Definition:** The letter assignment of the opening group phase (e.g., `Group B`, `Group C`), or noted as `not applicable` if the fixture took place during the knockout rounds.
 
 ### **team_name**
 * **Type:** String (Text)
-* **Definition:** The national football federation that the player represented during the match (i.e., `Argentina` or `Portugal`).
+* **Definition:** The national football team (i.e., `Argentina` or `Portugal`).
 
 ### **player_id**
 * **Type:** String (Unique Text Key)
@@ -44,23 +44,23 @@
 
 ### **given_name**
 * **Type:** String (Text)
-* **Definition:** The legal first name of the player (`Lionel` or `Cristiano`).
+* **Definition:** The first name of the player (`Lionel` or `Cristiano`).
 
 ### **family_name**
 * **Type:** String (Text)
-* **Definition:** The legal surname of the player (`Messi` or `Ronaldo`).
+* **Definition:** The surname of the player (`Messi` or `Ronaldo`).
 
 ### **starter**
 * **Type:** Integer (Binary flag: `1` or `0`)
-* **Definition:** Indicates whether the player was chosen in the opening tactical lineup on the pitch (`1` = Started, `0` = Did not start).
+* **Definition:** Indicates whether the player was chosen in the opening lineup on the pitch (`1` = Started, `0` = Did not start).
 
 ### **substitute**
 * **Type:** Integer (Binary flag: `1` or `0`)
-* **Definition:** Indicates whether the player entered the match as a tactical substitution off the bench (`1` = Came on as a sub, `0` = Did not enter as a sub).
+* **Definition:** Indicates whether the player entered the match as a substitution off the bench (`1` = Came on as a sub, `0` = Did not enter as a sub).
 
 ### **minutes_played**
 * **Type:** Integer
-* **Definition:** The exact volume of regulation and extra-time minutes the player spent active on the pitch during the match.
+* **Definition:** The exact number of regulation and extra-time minutes the player spent active on the pitch during the match.
 
 ### **total_goals**
 * **Type:** Integer
@@ -80,7 +80,7 @@
 
 ### **is_knockout**
 * **Type:** Integer (Binary flag: `1` or `0`)
-* **Definition:** A categorical flag identifying whether the match was a win-or-go-home elimination fixture (`1` = Knockout round, `0` = Group stage phase).
+* **Definition:** A flag identifying whether the match was a win-or-go-home elimination fixture (`1` = Knockout round, `0` = Group stage phase).
 
 ### **yellow_cards**
 * **Type:** Integer
