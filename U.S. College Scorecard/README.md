@@ -1,12 +1,5 @@
 # College Financial Fit Project README
 
-## Dataset Overview
-This dataset provides a curated subset of the **U.S. Department of Education’s College Scorecard**. It integrates historical institutional microdata sourced directly from the **Integrated Postsecondary Education Data System (IPEDS)**, the **National Student Loan Data System (NSLDS)**, and the **Internal Revenue Service (IRS)**. 
-
-This file has been pre-filtered to include only **primary main campuses** of **4-year, Bachelor's degree-granting colleges and universities** across the United States.
-
----
-
 ## 20-Variable Data Dictionary
 
 ### **UNITID (Unique Institutional ID)**
