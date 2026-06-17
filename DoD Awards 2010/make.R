@@ -54,6 +54,16 @@ q2 = read_csv("DoD Awards 2010/raw/DOD Awards Q2.csv", col_types = cols(.default
 q3 = read_csv("DoD Awards 2010/raw/DOD Awards Q3.csv", col_types = cols(.default = "c"))
 q4 = read_csv("DoD Awards 2010/raw/DOD Awards Q4.csv", col_types = cols(.default = "c"))
 
-dod_2010 = bind_rows(q1, q2, q3, q4)
+dod_2010 = bind_rows(q1, q2, q3, q4) |>
+  select(
+    -`CFDA PROGRAM NUMBER`,
+    -`FEDERAL AWARD IDENTIFIER NUMBER`,
+    -`RECIPIENT CITY CODE`,
+    -`STATE APPLICATION IDENTIFIER (SAI NUMBER)`,
+    -`FEDERAL FUNDING SIGN`,
+    -`NON-FEDERAL FUNDING SIGN`,
+    -`TOTAL FUNDING SIGN`,
+    -`PRINCIPAL PLACE OF PERFORMANCE CODE`
+  )
 
 write_csv(dod_2010, "DoD Awards 2010/DOD_Awards_2010.csv")
