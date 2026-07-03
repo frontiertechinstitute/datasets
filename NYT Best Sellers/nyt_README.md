@@ -2,7 +2,7 @@
 
 ## Overview
 
-This dataset tracks books that appeared on the *New York Times* Bestseller list. It combines weekly ranking data with book-level summary statistics into a single file, so each row is self-contained — no need to join across tables to get a book's full context.
+This dataset tracks books that appeared on the *New York Times* Bestseller list. It combines weekly ranking data with book-level summary statistics into a single file.
 
 Original source: [Post45 Data](https://data.post45.org/), via [TidyTuesday 2022-05-10](https://github.com/rfordatascience/tidytuesday/tree/main/data/2022/2022-05-10). The two original files (`nyt_titles.tsv` and `nyt_full.tsv`) have been merged into a single tidy CSV for this repo.
 
