@@ -1,0 +1,990 @@
+Age,Education Level,Gender,College GPA (/4),A Level Result (/5),Age Started Gaming,Mobile or PC,Sleep Time,Attend Morning Class,Average Gaming Time (hrs/day),Game Played,Read Newspaper,Paid or Unpaid Game,Time with Family and Friends,Feelings Without Gaming in a Day,Feelings After Completing Level,Fatigue,Gaming for Stress Relief,Glasses
+21,Bachelor Level,Male,4,5,10,"Mobile, PC",2,Yes,4,FIFA,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+21,Bachelor Level,Male,3,5,11,Mobile,2,No,5,FREE FIRE,Not regular,Paid,1,negative,Excited,No,Yes,No
+21,Bachelor Level,Male,3.75,5,12,"Mobile, PC",1,Yes,3,FIFA,Not regular,Unpaid,5,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Male,3.5,5,18,Mobile,0,Yes,2,FIFA,Not regular,Unpaid,7,positive,Excited,Yes,Yes,No
+25,Bachelor Level,Male,2,5,14,Mobile,2,No,2,FIFA,Not regular,Unpaid,6,positive,Excited,Yes,No,No
+22,Bachelor Level,Male,3.5,3.33,16,"Mobile, PC",2,No,0,PUBG,Not regular,Paid,3,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Male,3.5,4.8,16,Mobile,3,No,3,PES,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+23,Bachelor Level,Male,3.93,5,14,Mobile,3,Yes,5,PUBG,Not regular,Unpaid,7,neutral,Excited,No,Yes,Yes
+22,Bachelor Level,Male,3.8,4,17,"Mobile, PC",2,Yes,2,CALL OF DUTY,Not regular,Unpaid,2,positive,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3.61,4.67,18,Mobile,7,Yes,2,FIFA,Not regular,Unpaid,3,negative,Bored,No,No,No
+22,Bachelor Level,Male,3.2,4.92,16,Mobile,2,Yes,2,PUBG,Not regular,Unpaid,3,positive,Excited,Yes,No,No
+23,Bachelor Level,Male,2.93,4.71,14,Mobile,1,Yes,2,PUBG,Not regular,Unpaid,2,neutral,Excited,No,Yes,No
+22,Bachelor Level,Male,3.79,5,12,Mobile,2,Yes,2,FIFA,Not regular,Unpaid,1,positive,Excited,Yes,Yes,No
+23,Bachelor Level,Male,2.8,2.92,17,Mobile,0,Yes,1,PUBG,Not regular,Unpaid,3,positive,Bored,No,Yes,No
+22,Bachelor Level,Male,3.1,4.17,12,Mobile,0,Yes,4,PUBG,Not regular,Paid,0,positive,Excited,No,Yes,Yes
+21,Bachelor Level,Female,3,4.67,15,Mobile,0,Yes,1,PUBG,Not regular,Unpaid,3,positive,Excited,No,Yes,No
+24,Bachelor Level,Male,2.8,4.2,14,"Mobile, PC",0,Yes,1,PES,Not regular,Paid,3,positive,Excited,No,No,No
+23,Bachelor Level,Male,3.73,4.08,18,Mobile,2,Yes,3,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+21,Bachelor Level,Male,3.25,4.92,19,Mobile,0,Yes,3,PUBG,Not regular,Paid,2,negative,Excited,No,Yes,No
+22,Bachelor Level,Male,3.67,5,19,Mobile,2,No,1,FIFA,Not regular,Unpaid,0,positive,Excited,Yes,No,No
+23,Bachelor Level,Male,3.33,4.5,15,Mobile,0,Yes,2,PUBG,Regular,Unpaid,5,positive,Excited,Yes,Yes,No
+23,Bachelor Level,Male,4,5,10,PC,1,No,3,CALL OF DUTY,Not regular,Unpaid,7,positive,Excited,Yes,Yes,Yes
+23,Bachelor Level,Male,3,4.08,12,Mobile,0,Yes,2,PUBG,Not regular,Unpaid,3,positive,Excited,Yes,No,No
+22,Bachelor Level,Male,3.69,4.92,18,Mobile,8,Yes,1,FREE FIRE,Not regular,Paid,6,positive,Excited,No,Yes,No
+24,Bachelor Level,Male,3.4,4.67,5,Mobile,1,No,0,FIFA,Not regular,Unpaid,0,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Male,4,5,15,Mobile,23,Yes,1,COC,Not regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+18,Bachelor Level,Male,3.54,5,15,"Mobile, PC",1,Yes,4,PUBG,Not regular,Unpaid,1,positive,Excited,No,Yes,Yes
+22,Bachelor Level,Male,3.7,5,15,PC,1,Yes,1,FIFA,Not regular,Unpaid,5,positive,Excited,No,Yes,Yes
+24,Master's Level,Male,3.6,3.17,17,Mobile,23,Yes,1,CALL OF DUTY,Regular,Unpaid,4,positive,Bored,Yes,No,Yes
+21,Bachelor Level,Male,3.1,4.89,7,"Mobile, PC",4,No,7,PUBG,Not regular,Unpaid,1,negative,Excited,No,Yes,No
+19,Bachelor Level,Male,3,5,13,Mobile,7,Yes,5,FIFA,Not regular,Unpaid,7,negative,Excited,Yes,Yes,No
+21,Bachelor Level,Male,3.48,5,12,Mobile,1,No,2,COC,Not regular,Unpaid,5,positive,Excited,No,No,Yes
+21,Bachelor Level,Male,2.5,5,14,"Mobile, PC",1,Yes,1,PUBG,Regular,Unpaid,0,positive,Excited,No,Yes,No
+20,Bachelor Level,Male,2.33,5,14,"Mobile, PC",4,Yes,8,PUBG,Not regular,Unpaid,3,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Female,2.58,4.91,14,Mobile,1,No,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,Yes,Yes,No
+21,Bachelor Level,Male,2.62,3.92,12,"Mobile, PC",4,No,7,FIFA,Not regular,Unpaid,3,negative,Excited,No,No,No
+18,Bachelor Level,Male,2.5,5,12,Mobile,0,Yes,4,PUBG,Not regular,Unpaid,2,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3.74,5,14,Mobile,1,Yes,1,FREE FIRE,Not regular,Unpaid,4,neutral,Excited,No,Yes,No
+18,Bachelor Level,Male,2.5,5,12,"Mobile, PC",1,Yes,3,PUBG,Not regular,Paid,2,negative,Excited,Yes,No,No
+19,Bachelor Level,Male,2.89,4.81,14,Mobile,2,Yes,1,COC,Not regular,Unpaid,6,positive,Excited,Yes,No,No
+23,Bachelor Level,Male,3.82,4.5,12,"Mobile, PC",23,Yes,1,PUBG,Not regular,Unpaid,3,positive,Bored,No,No,No
+22,Bachelor Level,Male,3.73,4.69,9,"Mobile, PC",1,Yes,2,FREE FIRE,Regular,Unpaid,4,positive,Excited,Yes,No,Yes
+24,Master's Level,Male,3.3,5,16,"Mobile, PC",5,No,2,COC,Not regular,Unpaid,0,neutral,Bored,No,No,Yes
+21,Bachelor Level,Male,3.45,4.67,7,"Mobile, PC",3,Yes,2,FIFA,Not regular,Unpaid,5,positive,Excited,Yes,Yes,Yes
+22,Bachelor Level,Male,3,5,5,"Mobile, PC",2,No,2,COC,Not regular,Unpaid,2,positive,Excited,No,Yes,No
+21,Bachelor Level,Male,3,4.5,12,Mobile,0,Yes,2,PUBG,Not regular,Unpaid,7,positive,Excited,No,No,No
+22,Bachelor Level,Male,3.5,5,17,"Mobile, PC",2,No,5,PUBG,Not regular,Unpaid,2,negative,Excited,Yes,No,Yes
+23,Bachelor Level,Male,3.54,4.5,17,PC,3,Yes,1,FIFA,Regular,Paid,2,positive,Bored,No,Yes,No
+28,Master's Level,Male,3.7,5,6,"Mobile, PC",0,Yes,2,COC,Not regular,Unpaid,1,neutral,Excited,No,Yes,No
+23,Bachelor Level,Male,3.22,4.34,10,Mobile,4,No,3,FIFA,Not regular,Paid,7,negative,Excited,Yes,No,Yes
+24,Bachelor Level,Male,3.91,4.58,12,Mobile,1,Yes,4,PUBG,Not regular,Unpaid,5,neutral,Excited,Yes,Yes,Yes
+21,Bachelor Level,Female,3,5,20,Mobile,22,Yes,1,FIFA,Not regular,Unpaid,7,positive,Excited,No,No,No
+24,Bachelor Level,Male,3,4.58,22,Mobile,0,No,8,PUBG,Not regular,Unpaid,4,positive,Excited,Yes,Yes,No
+21,Bachelor Level,Male,3,4.67,16,"Mobile, PC",1,No,0,PUBG,Not regular,Unpaid,4,negative,Excited,No,Yes,No
+25,Bachelor Level,Male,3.17,5,18,Mobile,1,Yes,1,FIFA,Not regular,Unpaid,6,positive,Excited,No,No,No
+23,Master's Level,Female,3.63,4.5,20,Mobile,0,Yes,1,COC,Not regular,Unpaid,2,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Male,3.56,2.61,18,Mobile,0,Yes,2,FIFA,Not regular,Unpaid,4,positive,Excited,Yes,Yes,No
+27,Master's Level,Male,3,4.92,18,PC,1,Yes,0,FIFA,Not regular,Unpaid,4,positive,Bored,No,No,No
+25,Master's Level,Male,3.3,3,20,PC,23,Yes,1,PUBG,Regular,Unpaid,4,positive,Excited,Yes,Yes,Yes
+23,Bachelor Level,Male,3.2,4.6,19,"Mobile, PC",0,Yes,4,FIFA,Regular,Unpaid,3,positive,Excited,Yes,No,No
+24,Bachelor Level,Male,3.1,4.5,14,"Mobile, PC",4,No,2,PUBG,Not regular,Unpaid,4,positive,Excited,No,Yes,No
+23,Bachelor Level,Male,3.17,3.67,15,Mobile,1,Yes,3,FREE FIRE,Not regular,Unpaid,5,positive,Excited,Yes,No,No
+20,Bachelor Level,Male,3.3,3,18,Mobile,23,Yes,2,FIFA,Regular,Unpaid,1,negative,Excited,Yes,Yes,Yes
+26,Master's Level,Male,2.67,3,17,Mobile,23,No,1,FREE FIRE,Regular,Unpaid,1,negative,Excited,Yes,Yes,No
+22,Master's Level,Male,3.12,4,16,PC,22,No,2,PUBG,Regular,Unpaid,6,negative,Excited,Yes,No,Yes
+19,Bachelor Level,Female,3.25,4,15,Mobile,23,Yes,4,FIFA,Regular,Unpaid,4,negative,Bored,Yes,Yes,Yes
+21,Bachelor Level,Female,3.3,3,18,"Mobile, PC",0,Yes,4,PUBG,Regular,Paid,7,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3.45,4.6,19,Mobile,0,Yes,1,FIFA,Not regular,Unpaid,2,positive,Excited,Yes,No,No
+25,Bachelor Level,Male,3,4.88,20,Mobile,3,Yes,6,PUBG,Not regular,Unpaid,6,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3.5,4.5,15,Mobile,2,Yes,2,FREE FIRE,Not regular,Unpaid,7,positive,Excited,No,No,No
+25,Bachelor Level,Male,3.48,3.2,16,"Mobile, PC",1,Yes,2,PUBG,Not regular,Unpaid,3,positive,Bored,No,Yes,Yes
+22,Master's Level,Male,2.5,4.4,23,Mobile,4,Yes,5,PUBG,Regular,Paid,2,negative,Excited,Yes,Yes,No
+23,Bachelor Level,Male,3,3,20,Mobile,23,Yes,6,FIFA,Regular,Unpaid,6,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,2.65,4.5,19,Mobile,23,No,5,PUBG,Regular,Paid,1,negative,Bored,Yes,Yes,No
+20,Bachelor Level,Female,2.47,3.71,20,PC,22,No,6,IGA,Regular,Paid,1,negative,Bored,Yes,No,Yes
+30,Master's Level,Female,3,3.87,18,PC,0,Yes,6,FREE FIRE,Regular,Paid,3,negative,Excited,Yes,No,Yes
+20,Bachelor Level,Female,2.45,3.4,19,PC,23,No,3,PES,Not regular,Paid,3,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Male,3.39,4.46,23,Mobile,23,No,6,PUBG,Not regular,Paid,3,negative,Bored,No,No,No
+20,Bachelor Level,Male,2.49,3.04,16,Mobile,2,No,6,COC,Regular,Paid,3,negative,Bored,No,No,No
+22,Bachelor Level,Male,3.56,3.03,19,Mobile,2,No,2,PES,Regular,Paid,3,negative,Bored,Yes,Yes,Yes
+28,Master's Level,Male,2.45,4.91,20,PC,23,No,6,PES,Regular,Paid,3,negative,Excited,No,Yes,No
+22,Bachelor Level,Female,3.53,4,19,PC,2,No,6,PES,Not regular,Paid,3,negative,Excited,No,Yes,No
+22,Bachelor Level,Male,3.14,4.82,18,Mobile,22,Yes,6,IGA,Regular,Paid,1,negative,Excited,No,Yes,No
+26,Master's Level,Male,3.76,4.81,19,PC,0,Yes,5,PUBG,Not regular,Paid,1,negative,Excited,Yes,No,No
+21,Bachelor Level,Female,2.42,4,24,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,2,positive,Excited,No,Yes,Yes
+28,Master's Level,Male,3.51,4.83,21,PC,0,No,3,FIFA,Regular,Paid,1,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.8,4.01,17,Mobile,1,Yes,6,PES,Not regular,Paid,3,positive,Excited,No,Yes,Yes
+25,Bachelor Level,Female,3.47,4,21,Mobile,23,No,2,PES,Regular,Paid,3,positive,Excited,No,Yes,Yes
+29,Master's Level,Male,2.86,3.83,22,PC,1,Yes,5,COC,Regular,Paid,2,negative,Excited,No,Yes,No
+28,Master's Level,Female,3.61,4.41,16,Mobile,1,No,3,PES,Not regular,Paid,1,positive,Excited,Yes,Yes,Yes
+27,Master's Level,Female,3.19,4.53,18,PC,23,Yes,6,PES,Not regular,Paid,2,negative,Bored,Yes,No,No
+22,Bachelor Level,Female,3.1,3.98,22,PC,22,Yes,2,PUBG,Regular,Paid,2,negative,Bored,No,No,Yes
+29,Master's Level,Female,3.86,4,24,Mobile,1,No,2,IGA,Not regular,Paid,1,negative,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,2.36,4,23,Mobile,1,Yes,3,IGA,Regular,Paid,2,negative,Bored,Yes,No,Yes
+29,Master's Level,Female,3.3,4.51,22,PC,22,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,3.71,3.33,21,PC,22,No,6,PES,Regular,Paid,3,negative,Excited,Yes,No,Yes
+29,Master's Level,Female,3.04,4.55,20,PC,23,Yes,4,IGA,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+28,Master's Level,Female,3.11,4.36,18,PC,1,Yes,5,PUBG,Not regular,Paid,2,negative,Bored,No,No,Yes
+25,Bachelor Level,Male,2.69,3.68,16,PC,0,Yes,3,FREE FIRE,Not regular,Paid,1,negative,Bored,Yes,No,No
+20,Bachelor Level,Female,3.94,4.25,18,PC,23,Yes,3,PUBG,Not regular,Paid,2,positive,Bored,No,Yes,No
+30,Master's Level,Male,3.24,4.6,17,PC,0,No,2,PUBG,Regular,Paid,2,negative,Excited,Yes,No,Yes
+28,Master's Level,Male,3.28,4.81,17,PC,0,Yes,6,IGA,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+20,Bachelor Level,Male,3.91,5,20,Mobile,0,Yes,4,PES,Not regular,Paid,2,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Female,2.68,3.76,23,Mobile,23,No,3,FREE FIRE,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,4,3,22,Mobile,0,Yes,3,PUBG,Regular,Paid,3,negative,Excited,Yes,No,Yes
+24,Bachelor Level,Female,3.02,3.11,18,PC,0,Yes,4,IGA,Not regular,Paid,1,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3.85,3.95,18,PC,1,No,4,FREE FIRE,Regular,Paid,2,negative,Bored,Yes,No,Yes
+30,Master's Level,Male,3.85,3.34,17,PC,0,No,3,CALL OF DUTY,Regular,Paid,2,negative,Bored,No,No,No
+27,Master's Level,Male,3.58,4.81,24,PC,1,No,4,PES,Regular,Paid,2,negative,Bored,Yes,Yes,No
+21,Bachelor Level,Male,3.54,4.51,16,Mobile,23,No,6,FIFA,Not regular,Paid,3,negative,Excited,No,Yes,No
+24,Bachelor Level,Male,2.94,4.9,20,Mobile,22,No,5,FREE FIRE,Regular,Paid,1,negative,Excited,Yes,Yes,No
+26,Master's Level,Female,2.34,4.51,23,PC,23,No,4,COC,Regular,Paid,3,positive,Excited,No,Yes,Yes
+28,Master's Level,Female,2.7,4,22,PC,22,No,4,PUBG,Regular,Paid,3,negative,Bored,No,Yes,Yes
+30,Master's Level,Male,3.87,4.2,20,PC,2,Yes,4,COC,Not regular,Paid,2,negative,Bored,No,Yes,No
+23,Bachelor Level,Female,3.08,3.51,23,Mobile,22,No,5,PES,Regular,Paid,3,positive,Bored,No,No,Yes
+30,Master's Level,Female,3.84,4.83,18,Mobile,22,No,4,COC,Not regular,Paid,2,negative,Bored,No,Yes,No
+27,Master's Level,Male,3.09,4,19,Mobile,2,No,6,PES,Not regular,Paid,1,negative,Bored,Yes,No,No
+20,Bachelor Level,Female,3.06,4.5,24,Mobile,23,Yes,2,FREE FIRE,Not regular,Paid,3,negative,Excited,Yes,No,No
+25,Bachelor Level,Male,3.33,4.5,23,Mobile,1,Yes,3,PUBG,Not regular,Paid,1,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Female,2.99,4.81,17,PC,23,Yes,6,FREE FIRE,Regular,Paid,1,negative,Bored,No,No,Yes
+21,Bachelor Level,Male,3.78,4.1,24,Mobile,0,Yes,6,PUBG,Regular,Paid,2,positive,Excited,No,No,No
+21,Bachelor Level,Female,2.72,5,16,PC,1,Yes,2,FIFA,Regular,Paid,2,negative,Excited,Yes,Yes,No
+29,Master's Level,Female,3.17,3.69,20,Mobile,0,No,3,FREE FIRE,Regular,Paid,1,negative,Excited,No,No,No
+27,Master's Level,Male,3.57,4.52,17,Mobile,22,Yes,2,CALL OF DUTY,Regular,Paid,1,negative,Bored,No,No,No
+25,Bachelor Level,Female,4,4.41,22,PC,23,Yes,5,IGA,Not regular,Paid,1,positive,Bored,Yes,No,No
+26,Master's Level,Female,2.68,4.49,23,PC,22,No,3,FREE FIRE,Regular,Paid,2,negative,Bored,No,Yes,No
+24,Bachelor Level,Female,2.84,4.45,18,Mobile,1,No,4,CALL OF DUTY,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+30,Master's Level,Female,3.21,3.77,16,Mobile,0,Yes,4,COC,Regular,Paid,2,negative,Bored,Yes,No,Yes
+25,Bachelor Level,Male,2.94,4.53,17,PC,23,Yes,6,IGA,Regular,Paid,1,negative,Bored,No,No,Yes
+23,Bachelor Level,Male,3.46,3.62,21,PC,2,Yes,6,FREE FIRE,Regular,Paid,1,negative,Bored,No,No,Yes
+21,Bachelor Level,Male,3.34,4,22,PC,1,No,3,CALL OF DUTY,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,2.9,3.33,20,PC,1,No,4,COC,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+20,Bachelor Level,Male,2.32,4.2,20,Mobile,1,Yes,3,FIFA,Not regular,Paid,1,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,3.5,3.52,22,PC,1,No,5,FREE FIRE,Regular,Paid,3,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Male,2.83,4.6,19,PC,22,No,3,PES,Regular,Paid,3,negative,Bored,No,No,No
+26,Master's Level,Female,2.62,3.29,22,PC,1,No,5,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,No,No
+30,Master's Level,Female,2.74,3.81,24,PC,2,Yes,5,CALL OF DUTY,Not regular,Paid,1,positive,Bored,Yes,Yes,Yes
+29,Master's Level,Female,3.28,4.79,20,Mobile,22,Yes,3,COC,Regular,Paid,2,positive,Excited,Yes,No,Yes
+27,Master's Level,Female,2.73,4.33,16,PC,23,No,5,PES,Not regular,Paid,3,positive,Excited,Yes,Yes,No
+21,Bachelor Level,Female,3.52,4.82,23,PC,2,No,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,Yes,Yes
+28,Master's Level,Male,3.79,3.87,16,Mobile,23,No,4,CALL OF DUTY,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,3.73,4.85,18,Mobile,23,Yes,3,FIFA,Not regular,Paid,2,negative,Bored,No,Yes,Yes
+29,Master's Level,Female,3.48,3.03,21,Mobile,2,Yes,3,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+30,Master's Level,Male,3.53,3.04,18,PC,22,No,2,PUBG,Regular,Paid,3,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,2.95,3.14,16,PC,23,Yes,2,PES,Regular,Paid,3,positive,Bored,Yes,No,Yes
+27,Master's Level,Female,3.68,4.99,18,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,1,negative,Excited,No,No,Yes
+30,Master's Level,Female,3.99,5,20,Mobile,1,Yes,3,COC,Not regular,Paid,1,positive,Bored,Yes,No,Yes
+27,Master's Level,Male,3.2,4.2,21,PC,0,No,3,PUBG,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+20,Bachelor Level,Female,2.47,3.71,20,PC,22,No,6,IGA,Regular,Paid,1,negative,Bored,Yes,No,Yes
+30,Master's Level,Female,3,3.87,18,PC,0,Yes,6,FREE FIRE,Regular,Paid,3,negative,Excited,Yes,No,Yes
+20,Bachelor Level,Female,2.45,3.4,19,PC,23,No,3,PES,Not regular,Paid,3,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Male,3.39,4.46,23,Mobile,23,No,6,PUBG,Not regular,Paid,3,negative,Bored,No,No,No
+20,Bachelor Level,Male,2.49,3.04,16,Mobile,2,No,6,COC,Regular,Paid,3,negative,Bored,No,No,No
+22,Bachelor Level,Male,3.56,3.03,19,Mobile,2,No,2,PES,Regular,Paid,3,negative,Bored,Yes,Yes,Yes
+28,Master's Level,Male,2.45,4.91,20,PC,23,No,6,PES,Regular,Paid,3,negative,Excited,No,Yes,No
+22,Bachelor Level,Female,3.53,4.73,19,PC,2,No,6,PES,Not regular,Paid,3,negative,Excited,No,Yes,No
+22,Bachelor Level,Male,3.14,4.21,18,Mobile,22,Yes,6,IGA,Regular,Paid,1,negative,Excited,No,Yes,No
+26,Master's Level,Male,3.76,4.28,19,PC,0,Yes,5,PUBG,Not regular,Paid,1,negative,Excited,Yes,No,No
+21,Bachelor Level,Female,2.42,4.98,24,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,2,positive,Excited,No,Yes,Yes
+28,Master's Level,Male,3.51,4.83,21,PC,0,No,3,FIFA,Regular,Paid,1,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.8,4,17,Mobile,1,Yes,6,PES,Not regular,Paid,3,positive,Excited,No,Yes,Yes
+25,Bachelor Level,Female,3.47,4.23,21,Mobile,23,No,2,PES,Regular,Paid,3,positive,Excited,No,Yes,Yes
+29,Master's Level,Male,2.86,3.43,22,PC,1,Yes,5,COC,Regular,Paid,2,negative,Excited,No,Yes,No
+28,Master's Level,Female,3.61,4.41,16,Mobile,1,No,3,PES,Not regular,Paid,1,positive,Excited,Yes,Yes,Yes
+27,Master's Level,Female,3.19,4.53,18,PC,23,Yes,6,PES,Not regular,Paid,2,negative,Bored,Yes,No,No
+22,Bachelor Level,Female,3.1,3.98,22,PC,22,Yes,2,PUBG,Regular,Paid,2,negative,Bored,No,No,Yes
+29,Master's Level,Female,3.86,4,24,Mobile,1,No,2,IGA,Not regular,Paid,1,negative,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,2.36,4.62,23,Mobile,1,Yes,3,IGA,Regular,Paid,2,negative,Bored,Yes,No,Yes
+29,Master's Level,Female,3.3,4.51,22,PC,22,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,3.71,3.33,21,PC,22,No,6,PES,Regular,Paid,3,negative,Excited,Yes,No,Yes
+29,Master's Level,Female,3.04,4.55,20,PC,23,Yes,4,IGA,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+28,Master's Level,Female,3.11,4.36,18,PC,1,Yes,5,PUBG,Not regular,Paid,2,negative,Bored,No,No,Yes
+25,Bachelor Level,Male,2.69,3.68,16,PC,0,Yes,3,FREE FIRE,Not regular,Paid,1,negative,Bored,Yes,No,No
+20,Bachelor Level,Female,3.94,4.25,18,PC,23,Yes,3,PUBG,Not regular,Paid,2,positive,Bored,No,Yes,No
+30,Master's Level,Male,3.24,4,17,PC,0,No,2,PUBG,Regular,Paid,2,negative,Excited,Yes,No,Yes
+28,Master's Level,Male,3.28,5,17,PC,0,Yes,6,IGA,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+20,Bachelor Level,Male,3.91,4.2,20,Mobile,0,Yes,4,PES,Not regular,Paid,2,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Female,2.68,3.76,23,Mobile,23,No,3,FREE FIRE,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,4,3,22,Mobile,0,Yes,3,PUBG,Regular,Paid,3,negative,Excited,Yes,No,Yes
+24,Bachelor Level,Female,3.02,3.11,18,PC,0,Yes,4,IGA,Not regular,Paid,1,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3.85,3.95,18,PC,1,No,4,FREE FIRE,Regular,Paid,2,negative,Bored,Yes,No,Yes
+30,Master's Level,Male,3.85,3.34,17,PC,0,No,3,CALL OF DUTY,Regular,Paid,2,negative,Bored,No,No,No
+27,Master's Level,Male,3.58,4.5,24,PC,1,No,4,PES,Regular,Paid,2,negative,Bored,Yes,Yes,No
+21,Bachelor Level,Male,3.54,4.51,16,Mobile,23,No,6,FIFA,Not regular,Paid,3,negative,Excited,No,Yes,No
+24,Bachelor Level,Male,2.94,4,20,Mobile,22,No,5,FREE FIRE,Regular,Paid,1,negative,Excited,Yes,Yes,No
+26,Master's Level,Female,2.34,4.51,23,PC,23,No,4,COC,Regular,Paid,3,positive,Excited,No,Yes,Yes
+28,Master's Level,Female,2.7,5,22,PC,22,No,4,PUBG,Regular,Paid,3,negative,Bored,No,Yes,Yes
+30,Master's Level,Male,3.87,4.5,20,PC,2,Yes,4,COC,Not regular,Paid,2,negative,Bored,No,Yes,No
+23,Bachelor Level,Female,3.08,3.51,23,Mobile,22,No,5,PES,Regular,Paid,3,positive,Bored,No,No,Yes
+30,Master's Level,Female,3.84,4.83,18,Mobile,22,No,4,COC,Not regular,Paid,2,negative,Bored,No,Yes,No
+27,Master's Level,Male,3.09,4.6,19,Mobile,2,No,6,PES,Not regular,Paid,1,negative,Bored,Yes,No,No
+20,Bachelor Level,Female,3.06,4.8,24,Mobile,23,Yes,2,FREE FIRE,Not regular,Paid,3,negative,Excited,Yes,No,No
+25,Bachelor Level,Male,3.33,4.5,23,Mobile,1,Yes,3,PUBG,Not regular,Paid,1,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Female,2.99,4.81,17,PC,23,Yes,6,FREE FIRE,Regular,Paid,1,negative,Bored,No,No,Yes
+21,Bachelor Level,Male,3.78,4.9,24,Mobile,0,Yes,6,PUBG,Regular,Paid,2,positive,Excited,No,No,No
+21,Bachelor Level,Female,2.72,5,16,PC,1,Yes,2,FIFA,Regular,Paid,2,negative,Excited,Yes,Yes,No
+29,Master's Level,Female,3.17,3.69,20,Mobile,0,No,3,FREE FIRE,Regular,Paid,1,negative,Excited,No,No,No
+27,Master's Level,Male,3.57,4.52,17,Mobile,22,Yes,2,CALL OF DUTY,Regular,Paid,1,negative,Bored,No,No,No
+25,Bachelor Level,Female,4,4.5,22,PC,23,Yes,5,IGA,Not regular,Paid,1,positive,Bored,Yes,No,No
+26,Master's Level,Female,2.68,4.49,23,PC,22,No,3,FREE FIRE,Regular,Paid,2,negative,Bored,No,Yes,No
+24,Bachelor Level,Female,2.84,4,18,Mobile,1,No,4,CALL OF DUTY,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+30,Master's Level,Female,3.21,3.77,16,Mobile,0,Yes,4,COC,Regular,Paid,2,negative,Bored,Yes,No,Yes
+25,Bachelor Level,Male,2.94,4.53,17,PC,23,Yes,6,IGA,Regular,Paid,1,negative,Bored,No,No,Yes
+23,Bachelor Level,Male,3.46,3.62,21,PC,2,Yes,6,FREE FIRE,Regular,Paid,1,negative,Bored,No,No,Yes
+21,Bachelor Level,Male,3.34,4.5,22,PC,1,No,3,CALL OF DUTY,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,2.9,3.33,20,PC,1,No,4,COC,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+20,Bachelor Level,Male,2.32,4.6,20,Mobile,1,Yes,3,FIFA,Not regular,Paid,1,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,3.5,3.52,22,PC,1,No,5,FREE FIRE,Regular,Paid,3,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Male,2.83,5,19,PC,22,No,3,PES,Regular,Paid,3,negative,Bored,No,No,No
+26,Master's Level,Female,2.62,3.29,22,PC,1,No,5,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,No,No
+30,Master's Level,Female,2.74,3.81,24,PC,2,Yes,5,CALL OF DUTY,Not regular,Paid,1,positive,Bored,Yes,Yes,Yes
+29,Master's Level,Female,3.28,4.79,20,Mobile,22,Yes,3,COC,Regular,Paid,2,positive,Excited,Yes,No,Yes
+27,Master's Level,Female,2.73,4.33,16,PC,23,No,5,PES,Not regular,Paid,3,positive,Excited,Yes,Yes,No
+21,Bachelor Level,Female,3.52,4.82,23,PC,2,No,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,Yes,Yes
+28,Master's Level,Male,3.79,3.87,16,Mobile,23,No,4,CALL OF DUTY,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,3.73,4.85,18,Mobile,23,Yes,3,FIFA,Not regular,Paid,2,negative,Bored,No,Yes,Yes
+29,Master's Level,Female,3.48,3.03,21,Mobile,2,Yes,3,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+30,Master's Level,Male,3.53,3.04,18,PC,22,No,2,PUBG,Regular,Paid,3,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,2.95,3.14,16,PC,23,Yes,2,PES,Regular,Paid,3,positive,Bored,Yes,No,Yes
+27,Master's Level,Female,3.68,4.99,18,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,1,negative,Excited,No,No,Yes
+30,Master's Level,Female,3.99,3.5,20,Mobile,1,Yes,3,COC,Not regular,Paid,1,positive,Bored,Yes,No,Yes
+27,Master's Level,Male,3.2,5,21,PC,0,No,3,PUBG,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,3,4,15,Mobile,2,No,2,PES,Not regular,Unpaid,5,positive,Excited,Yes,Yes,No
+21,Bachelor Level,Male,3.9,5,16,Mobile,0,Yes,3,FIFA,Not regular,Unpaid,6,neutral,Excited,Yes,No,No
+22,Bachelor Level,Female,4,3.8,19,PC,23,Yes,4,FREE FIRE,Not regular,Unpaid,2,negative,Bored,Yes,No,No
+26,Master's Level,Female,3,3.6,22,Mobile,1,No,2,FREE FIRE,Not regular,Paid,2,negative,Excited,Yes,No,Yes
+22,Bachelor Level,Female,3,4,3,PC,23,Yes,3,PES,Not regular,Unpaid,3,negative,Excited,Yes,Yes,No
+27,Master's Level,Male,3.5,5,20,Mobile,2,Yes,4,IGA,Regular,Paid,4,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Male,3,4,20,PC,0,Yes,3,COC,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Female,3.3,4.58,22,PC,1,Yes,3,PUBG,Not regular,Unpaid,2,positive,Excited,Yes,Yes,Yes
+25,Bachelor Level,Male,3.8,5,22,PC,0,No,2,FIFA,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Male,3,4.63,20,Mobile,0,Yes,2,PUBG,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Female,3,4,22,Mobile,2,Yes,2,PUBG,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Male,3,4.59,22,Mobile,1,Yes,3,COC,Regular,Paid,3,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Female,4,3,22,Mobile,1,Yes,2,COC,Not regular,Unpaid,1,negative,Excited,Yes,Yes,Yes
+25,Master's Level,Female,3.3,3.37,21,PC,2,No,3,FIFA,Not regular,Paid,3,positive,Bored,Yes,No,Yes
+24,Bachelor Level,Female,3.25,4,19,PC,0,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+27,Master's Level,Female,4,5,22,Mobile,23,No,5,CALL OF DUTY,Regular,Unpaid,3,negative,Excited,No,No,No
+18,Bachelor Level,Male,4,4.73,19,PC,22,No,3,FIFA,Not regular,Paid,2,negative,Excited,No,No,Yes
+18,Bachelor Level,Female,2.53,3.03,18,PC,2,No,4,PES,Regular,Paid,2,negative,Bored,Yes,No,Yes
+22,Bachelor Level,Female,3.19,4.29,18,PC,1,No,4,IGA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+27,Master's Level,Male,4,2.33,24,Mobile,23,No,4,PES,Not regular,Unpaid,4,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3,4,18,Mobile,23,Yes,4,PUBG,Not regular,Unpaid,4,negative,Excited,No,No,No
+24,Bachelor Level,Female,4,4.04,20,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Male,2.75,4.33,19,PC,1,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+19,Bachelor Level,Female,3,4.83,20,PC,22,No,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+27,Master's Level,Male,2.98,4,22,PC,0,Yes,2,FIFA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,3.25,4.43,19,Mobile,23,Yes,4,CALL OF DUTY,Regular,Unpaid,4,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.96,5,22,PC,1,No,2,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+21,Bachelor Level,Male,3,4.55,19,Mobile,23,No,3,FREE FIRE,Regular,Paid,2,positive,Bored,No,No,Yes
+26,Master's Level,Female,2.5,3,21,Mobile,22,No,3,CALL OF DUTY,Regular,Paid,2,negative,Bored,No,No,No
+19,Bachelor Level,Male,3,4,19,Mobile,22,Yes,5,PES,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+26,Master's Level,Male,3,3.18,22,Mobile,1,Yes,3,IGA,Not regular,Paid,3,positive,Bored,Yes,Yes,No
+27,Master's Level,Male,3.5,4.5,21,Mobile,1,No,5,COC,Regular,Paid,2,positive,Bored,No,Yes,No
+27,Master's Level,Male,2.76,4.75,20,Mobile,22,No,6,IGA,Regular,Unpaid,3,negative,Bored,Yes,No,No
+18,Bachelor Level,Female,4,4.22,20,PC,1,No,2,CALL OF DUTY,Regular,Paid,2,positive,Bored,No,Yes,No
+19,Bachelor Level,Female,3.19,2,19,Mobile,23,Yes,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,Yes
+20,Bachelor Level,Female,3.04,4,20,Mobile,1,No,3,FIFA,Not regular,Unpaid,3,negative,Excited,No,Yes,No
+18,Bachelor Level,Male,3,4.5,21,PC,2,Yes,3,PUBG,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+28,Master's Level,Male,2.75,4,23,PC,22,Yes,6,FIFA,Regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3,3.59,20,Mobile,23,No,2,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+20,Bachelor Level,Female,3,4,18,Mobile,22,Yes,2,FIFA,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Male,2.34,3,21,PC,23,Yes,3,FREE FIRE,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+27,Master's Level,Male,3.33,2,20,Mobile,1,Yes,5,PES,Regular,Unpaid,4,positive,Excited,No,No,Yes
+23,Bachelor Level,Female,3.1,5,20,Mobile,1,Yes,6,COC,Not regular,Paid,3,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3,4.5,20,Mobile,22,Yes,3,IGA,Regular,Unpaid,2,positive,Bored,Yes,No,No
+23,Bachelor Level,Male,4,4.75,19,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,3.02,5,18,PC,2,No,2,COC,Regular,Unpaid,4,negative,Excited,Yes,No,Yes
+21,Bachelor Level,Female,4,2.94,21,Mobile,0,Yes,4,PES,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Male,3,3.5,21,Mobile,2,No,6,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,No,Yes
+27,Master's Level,Male,4,4.45,21,PC,22,No,3,IGA,Regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+20,Bachelor Level,Male,3.21,5,19,PC,1,Yes,3,PUBG,Not regular,Paid,2,negative,Bored,No,Yes,Yes
+19,Bachelor Level,Male,3,4,18,PC,2,No,6,FIFA,Not regular,Unpaid,4,negative,Excited,No,No,No
+28,Master's Level,Male,3.35,5,21,PC,0,No,2,FIFA,Not regular,Paid,2,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,3,4,19,PC,22,No,5,PES,Regular,Unpaid,2,negative,Bored,Yes,No,No
+18,Bachelor Level,Male,2,4,19,Mobile,0,Yes,6,COC,Regular,Unpaid,4,positive,Excited,No,No,No
+18,Bachelor Level,Male,4,4.22,21,Mobile,0,No,3,FREE FIRE,Regular,Unpaid,4,negative,Bored,No,No,No
+19,Bachelor Level,Male,3.44,4.5,18,Mobile,22,No,6,FIFA,Not regular,Paid,4,positive,Excited,No,Yes,Yes
+27,Master's Level,Male,3.98,3,22,PC,23,Yes,4,IGA,Not regular,Paid,2,negative,Excited,No,No,No
+28,Master's Level,Female,3.82,4.65,20,Mobile,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,4,positive,Bored,No,No,Yes
+19,Bachelor Level,Male,2,4.15,18,Mobile,2,No,6,PES,Not regular,Unpaid,2,negative,Bored,No,No,Yes
+23,Bachelor Level,Male,2.77,4.71,18,Mobile,0,Yes,3,COC,Regular,Paid,2,negative,Excited,No,Yes,No
+24,Bachelor Level,Female,2,3.75,21,PC,2,Yes,3,PES,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Female,4,4.5,20,PC,23,No,2,CALL OF DUTY,Regular,Paid,4,positive,Bored,No,Yes,Yes
+18,Bachelor Level,Female,3.11,3.5,19,Mobile,2,No,6,FIFA,Regular,Paid,4,negative,Excited,No,Yes,No
+28,Master's Level,Male,3.63,4,20,Mobile,23,No,2,COC,Regular,Unpaid,4,negative,Bored,No,No,No
+20,Bachelor Level,Female,3,5,18,Mobile,2,Yes,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,Yes
+28,Master's Level,Female,4,5,21,PC,0,Yes,2,COC,Not regular,Unpaid,4,negative,Bored,No,No,No
+23,Bachelor Level,Male,2.64,4.44,21,PC,1,Yes,2,CALL OF DUTY,Regular,Unpaid,2,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,2,4,20,PC,22,Yes,5,FREE FIRE,Not regular,Unpaid,2,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Female,3.5,5,19,PC,0,No,3,COC,Not regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3.75,3.8,18,Mobile,2,No,6,COC,Not regular,Unpaid,2,negative,Bored,Yes,Yes,No
+26,Master's Level,Male,3.69,4.28,21,Mobile,23,No,6,COC,Regular,Unpaid,2,negative,Excited,Yes,No,No
+28,Master's Level,Male,2.27,3,21,PC,22,Yes,2,CALL OF DUTY,Not regular,Paid,2,positive,Bored,No,No,Yes
+26,Master's Level,Male,2.61,4.03,24,Mobile,1,Yes,6,COC,Regular,Unpaid,3,positive,Bored,Yes,No,No
+26,Master's Level,Female,2.43,4,22,PC,2,Yes,4,COC,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+28,Master's Level,Female,2.84,4,21,Mobile,2,No,3,PES,Regular,Paid,3,negative,Excited,No,No,Yes
+20,Bachelor Level,Female,3.33,3.01,20,PC,22,No,3,FIFA,Not regular,Paid,2,negative,Excited,No,Yes,No
+26,Master's Level,Male,3.36,4.02,24,Mobile,23,Yes,5,CALL OF DUTY,Regular,Unpaid,2,positive,Excited,No,Yes,Yes
+21,Bachelor Level,Male,3,5,19,PC,22,No,4,IGA,Not regular,Paid,3,negative,Bored,No,No,No
+21,Bachelor Level,Male,3.42,4,21,Mobile,2,Yes,3,CALL OF DUTY,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+28,Master's Level,Male,3,4,23,Mobile,1,Yes,6,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,Yes,Yes
+19,Bachelor Level,Male,2.86,4.45,18,PC,1,No,3,IGA,Regular,Unpaid,4,negative,Bored,Yes,No,Yes
+19,Bachelor Level,Male,3.59,3,18,Mobile,23,No,3,CALL OF DUTY,Not regular,Paid,2,negative,Excited,No,No,Yes
+23,Bachelor Level,Male,3.76,4.5,18,PC,23,Yes,5,PES,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+20,Bachelor Level,Male,3.71,5,18,Mobile,1,Yes,3,CALL OF DUTY,Regular,Unpaid,2,negative,Excited,No,No,No
+21,Bachelor Level,Female,3.84,4,18,PC,0,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Male,2.5,3,20,PC,23,Yes,5,PES,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,3,3.55,20,PC,23,No,4,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,No,No
+22,Bachelor Level,Male,3.2,4,19,PC,22,No,6,CALL OF DUTY,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+19,Bachelor Level,Female,2,5,21,Mobile,22,Yes,5,IGA,Regular,Paid,3,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,3.98,5,20,Mobile,23,No,6,CALL OF DUTY,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+22,Bachelor Level,Female,2.79,4.5,19,PC,22,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,No,Yes
+24,Bachelor Level,Male,2.4,3.98,18,PC,2,No,4,COC,Regular,Paid,4,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,3,3.11,18,PC,2,No,2,PUBG,Regular,Unpaid,4,positive,Bored,No,Yes,No
+26,Master's Level,Female,3,4.03,21,PC,23,No,5,CALL OF DUTY,Regular,Unpaid,4,negative,Excited,No,No,No
+21,Bachelor Level,Female,3.68,5,18,PC,2,Yes,2,PUBG,Regular,Unpaid,3,negative,Excited,Yes,No,No
+23,Bachelor Level,Male,3.85,5,19,PC,0,No,2,COC,Not regular,Unpaid,4,negative,Bored,Yes,No,No
+27,Master's Level,Male,3.35,5,24,PC,22,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Male,3,3.5,21,Mobile,22,Yes,3,PES,Regular,Paid,3,negative,Excited,Yes,No,No
+20,Bachelor Level,Male,4,5,21,PC,0,Yes,2,FREE FIRE,Regular,Unpaid,3,negative,Bored,No,Yes,Yes
+23,Bachelor Level,Female,3,3.93,18,PC,2,No,5,COC,Regular,Unpaid,2,positive,Excited,Yes,Yes,Yes
+25,Master's Level,Male,3,4.8,23,PC,22,Yes,3,COC,Not regular,Unpaid,4,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Male,2.2,4.29,24,Mobile,22,No,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+28,Master's Level,Male,3,3,22,PC,0,No,2,FIFA,Regular,Unpaid,2,positive,Excited,Yes,Yes,No
+20,Bachelor Level,Female,2,3.42,21,PC,1,No,6,COC,Regular,Unpaid,2,negative,Excited,No,No,Yes
+28,Master's Level,Female,4,5,21,PC,23,Yes,6,PUBG,Regular,Unpaid,2,positive,Bored,Yes,Yes,No
+18,Bachelor Level,Female,2.32,2.61,19,PC,22,Yes,2,CALL OF DUTY,Regular,Unpaid,2,negative,Bored,Yes,Yes,No
+19,Bachelor Level,Male,3,3.75,21,Mobile,0,Yes,6,IGA,Not regular,Paid,4,positive,Bored,Yes,Yes,No
+22,Bachelor Level,Male,2,3.39,19,Mobile,1,No,3,IGA,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Male,2,3.5,20,Mobile,2,Yes,4,IGA,Regular,Paid,3,positive,Bored,Yes,No,No
+24,Bachelor Level,Male,2.54,3,20,Mobile,1,Yes,6,FIFA,Regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3.19,3,21,PC,23,Yes,5,PUBG,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3,3,18,PC,2,Yes,4,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+20,Bachelor Level,Female,3.96,5,19,Mobile,1,No,3,IGA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,3,4.1,20,Mobile,0,No,6,FREE FIRE,Not regular,Unpaid,3,positive,Bored,No,No,No
+22,Bachelor Level,Male,3,3.54,20,Mobile,2,No,4,PUBG,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Female,2.5,3.81,18,Mobile,22,Yes,5,PUBG,Regular,Paid,2,negative,Bored,No,Yes,Yes
+18,Bachelor Level,Male,2,4.2,18,Mobile,23,No,6,CALL OF DUTY,Regular,Paid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,2,4,18,PC,23,Yes,2,FREE FIRE,Regular,Paid,2,negative,Bored,No,No,No
+23,Bachelor Level,Female,2.19,3.35,21,Mobile,22,No,5,IGA,Regular,Paid,2,negative,Bored,No,No,No
+22,Bachelor Level,Female,3,3.51,20,Mobile,23,Yes,2,CALL OF DUTY,Not regular,Paid,4,positive,Bored,Yes,No,No
+28,Master's Level,Female,3.55,5,22,Mobile,2,Yes,3,FREE FIRE,Regular,Unpaid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,2.56,4.13,20,PC,22,No,6,IGA,Regular,Paid,3,positive,Bored,No,No,No
+21,Bachelor Level,Male,2,3.82,21,PC,0,Yes,4,PES,Not regular,Unpaid,4,positive,Excited,No,No,Yes
+27,Master's Level,Male,4,4.72,20,PC,0,No,2,FREE FIRE,Not regular,Paid,4,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,3.5,4,21,Mobile,23,No,6,FREE FIRE,Not regular,Unpaid,4,negative,Bored,No,No,Yes
+28,Master's Level,Male,3,5,24,Mobile,22,Yes,5,COC,Regular,Unpaid,4,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.02,4.72,20,Mobile,2,No,2,COC,Regular,Unpaid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,4,4,21,PC,23,Yes,5,COC,Not regular,Paid,4,positive,Excited,Yes,Yes,No
+23,Bachelor Level,Female,3.25,5,20,PC,2,No,4,PUBG,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+22,Bachelor Level,Female,2,3.75,19,PC,1,No,2,COC,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+28,Master's Level,Male,4,4.46,24,Mobile,22,Yes,4,FIFA,Not regular,Unpaid,3,negative,Excited,No,No,No
+26,Master's Level,Female,3.52,5,21,PC,22,No,5,COC,Not regular,Paid,3,positive,Bored,No,No,Yes
+18,Bachelor Level,Male,2,4.75,20,PC,1,No,3,CALL OF DUTY,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Male,3.41,4,19,Mobile,22,No,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,No
+28,Master's Level,Male,3.23,4.54,22,PC,0,Yes,5,CALL OF DUTY,Regular,Paid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,2,4,19,Mobile,2,No,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+27,Master's Level,Male,2.79,3.36,20,Mobile,0,Yes,2,PUBG,Not regular,Paid,2,negative,Bored,Yes,No,No
+23,Bachelor Level,Female,3.05,3.9,18,PC,22,No,3,IGA,Regular,Paid,3,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,2.5,3,21,Mobile,2,Yes,6,COC,Not regular,Unpaid,3,negative,Bored,No,Yes,No
+20,Bachelor Level,Female,4,4.7,18,PC,23,Yes,2,FREE FIRE,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,2,4.02,18,PC,23,No,2,COC,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,3,4,21,PC,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,Yes,Yes,Yes
+22,Bachelor Level,Male,2.09,3,18,Mobile,0,No,6,CALL OF DUTY,Regular,Unpaid,4,positive,Bored,No,No,No
+20,Bachelor Level,Female,3.37,4,19,Mobile,2,Yes,6,IGA,Regular,Unpaid,4,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,2.5,4,20,PC,1,Yes,4,IGA,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,2,4,23,PC,2,No,4,COC,Regular,Paid,4,negative,Excited,Yes,No,Yes
+20,Bachelor Level,Female,3.05,4.5,19,Mobile,1,Yes,2,COC,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,3.5,4.85,21,PC,2,Yes,3,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+28,Master's Level,Female,3.4,4.55,24,Mobile,22,Yes,2,IGA,Regular,Paid,2,positive,Excited,No,No,Yes
+26,Master's Level,Male,2,3.23,22,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,positive,Bored,No,No,No
+19,Bachelor Level,Male,3,3,21,PC,1,Yes,3,PES,Regular,Paid,3,positive,Excited,Yes,No,No
+25,Master's Level,Male,3,2.96,24,Mobile,2,Yes,6,COC,Regular,Paid,2,negative,Excited,Yes,No,Yes
+23,Bachelor Level,Male,3,3.76,18,PC,1,Yes,6,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,No,No
+27,Master's Level,Female,3.77,5,22,Mobile,0,Yes,2,FREE FIRE,Regular,Paid,4,positive,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,2.41,5,20,PC,23,No,5,IGA,Not regular,Paid,2,positive,Bored,Yes,No,Yes
+22,Bachelor Level,Female,3,3,19,Mobile,0,Yes,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,No
+26,Master's Level,Male,3,4.15,22,Mobile,22,Yes,6,PES,Regular,Unpaid,4,negative,Bored,Yes,No,No
+18,Bachelor Level,Male,4,4.78,20,Mobile,1,Yes,3,PUBG,Not regular,Paid,3,negative,Excited,No,No,Yes
+20,Bachelor Level,Male,3,4.79,20,Mobile,2,No,2,PES,Regular,Unpaid,4,negative,Excited,No,Yes,No
+18,Bachelor Level,Female,3.67,3.17,18,Mobile,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+24,Bachelor Level,Male,3,5,19,Mobile,2,No,5,FIFA,Not regular,Paid,3,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Female,3,4,23,Mobile,1,No,5,CALL OF DUTY,Regular,Paid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,4,4.94,19,PC,1,Yes,3,COC,Regular,Unpaid,2,positive,Excited,No,Yes,No
+22,Bachelor Level,Male,2,4.32,21,Mobile,23,Yes,3,FREE FIRE,Not regular,Paid,2,positive,Excited,No,No,No
+18,Bachelor Level,Female,3.75,4,20,Mobile,22,No,2,CALL OF DUTY,Regular,Paid,3,negative,Bored,No,Yes,No
+22,Bachelor Level,Male,2.9,4.2,19,PC,22,No,5,FREE FIRE,Not regular,Paid,4,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Female,2.88,5,21,PC,23,No,6,FIFA,Regular,Paid,3,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,3.37,4.5,20,Mobile,1,Yes,5,PUBG,Not regular,Unpaid,4,negative,Bored,No,No,No
+21,Bachelor Level,Female,3.77,4.2,20,Mobile,0,No,5,IGA,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,2.24,4.91,21,Mobile,1,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,Yes,No
+21,Bachelor Level,Male,3.77,5,18,PC,22,No,2,IGA,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Male,3,4,18,Mobile,22,No,4,PUBG,Not regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+27,Master's Level,Female,2,3.59,22,PC,22,No,4,COC,Regular,Unpaid,2,negative,Bored,Yes,No,No
+21,Bachelor Level,Female,4,5,19,PC,0,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,4,5,21,PC,22,Yes,6,IGA,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Female,3.21,4,18,Mobile,1,No,5,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,No,No
+18,Bachelor Level,Female,3.22,4,19,Mobile,23,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,No,Yes,No
+21,Bachelor Level,Male,3.62,4.78,18,PC,0,No,2,PUBG,Not regular,Unpaid,2,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.46,4.7,24,PC,2,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,3,4.48,19,Mobile,23,No,3,FIFA,Not regular,Paid,3,positive,Bored,No,No,Yes
+21,Bachelor Level,Female,3.14,5,19,PC,2,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,No,Yes
+26,Master's Level,Male,3,5,24,PC,23,Yes,4,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Male,3,4.54,18,Mobile,22,No,6,IGA,Not regular,Unpaid,2,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Male,4,4.14,19,Mobile,0,Yes,6,FIFA,Not regular,Paid,3,negative,Excited,No,Yes,No
+24,Bachelor Level,Female,2.23,3.9,18,PC,22,Yes,4,CALL OF DUTY,Regular,Unpaid,4,positive,Excited,No,No,No
+27,Master's Level,Female,2.09,4,20,PC,22,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Female,2,5,20,PC,23,Yes,6,PUBG,Regular,Paid,4,positive,Bored,Yes,No,Yes
+18,Bachelor Level,Female,3.76,4.17,21,Mobile,1,Yes,2,FREE FIRE,Not regular,Unpaid,2,negative,Bored,No,Yes,Yes
+25,Master's Level,Female,3.99,3.86,23,Mobile,22,Yes,4,FIFA,Not regular,Paid,3,negative,Bored,Yes,No,No
+28,Master's Level,Male,2.89,4.48,20,Mobile,2,Yes,5,PES,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+22,Bachelor Level,Female,3,4,18,Mobile,2,No,4,CALL OF DUTY,Regular,Paid,2,negative,Bored,Yes,No,No
+24,Bachelor Level,Female,3.05,4.08,20,PC,1,Yes,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,No
+18,Bachelor Level,Male,2.31,3,20,PC,2,Yes,2,PUBG,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+27,Master's Level,Female,2,4.82,23,PC,2,No,2,FREE FIRE,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+21,Bachelor Level,Female,3.5,5,21,PC,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3,4,21,Mobile,0,No,2,PES,Not regular,Paid,2,negative,Excited,No,No,No
+24,Bachelor Level,Female,4,4.75,18,PC,0,No,3,PUBG,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+23,Bachelor Level,Male,3,4.08,19,Mobile,23,No,2,COC,Regular,Paid,4,negative,Excited,No,Yes,No
+27,Master's Level,Female,3.5,4,21,PC,2,No,3,IGA,Regular,Unpaid,2,negative,Bored,Yes,No,Yes
+25,Master's Level,Male,2.04,3,22,Mobile,0,Yes,5,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+25,Master's Level,Male,3,3,23,Mobile,1,No,6,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+18,Bachelor Level,Male,3.52,5,18,PC,0,Yes,2,PES,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,3.66,4,19,PC,23,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,3.03,4,24,Mobile,1,No,4,CALL OF DUTY,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,2.56,3,18,Mobile,1,No,2,PES,Regular,Paid,3,negative,Bored,No,No,No
+27,Master's Level,Female,3.39,4.35,22,Mobile,23,No,4,COC,Regular,Paid,4,positive,Excited,No,Yes,Yes
+21,Bachelor Level,Male,3.05,4,20,PC,1,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3,5,20,PC,0,Yes,5,FREE FIRE,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,2.85,4,24,PC,0,Yes,4,IGA,Not regular,Paid,4,negative,Excited,No,Yes,No
+20,Bachelor Level,Male,3.15,3,18,PC,2,No,4,IGA,Regular,Unpaid,4,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,2.36,3.65,21,Mobile,1,No,2,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,Yes,Yes
+23,Bachelor Level,Male,3.5,4.75,21,PC,1,Yes,2,PES,Regular,Unpaid,3,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,4,4.5,18,PC,1,No,4,PES,Regular,Unpaid,4,positive,Excited,No,No,No
+20,Bachelor Level,Female,2.38,4.9,19,PC,1,No,5,FIFA,Regular,Paid,2,negative,Excited,No,No,Yes
+19,Bachelor Level,Male,3,4.66,21,Mobile,22,No,3,IGA,Regular,Unpaid,2,negative,Excited,Yes,No,Yes
+28,Master's Level,Female,2.18,5,21,PC,1,No,2,FREE FIRE,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+27,Master's Level,Female,3.13,5,20,PC,23,Yes,2,PES,Regular,Unpaid,4,negative,Bored,No,No,No
+27,Master's Level,Male,3.56,5,22,Mobile,2,No,4,FREE FIRE,Regular,Unpaid,3,negative,Excited,Yes,No,No
+19,Bachelor Level,Female,4,5,18,Mobile,22,No,3,FREE FIRE,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+22,Bachelor Level,Female,3.8,4.5,18,Mobile,23,Yes,5,FREE FIRE,Regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Male,3.87,4.1,19,Mobile,22,Yes,6,PES,Regular,Paid,3,negative,Bored,Yes,No,No
+25,Master's Level,Female,3.3,3.37,21,PC,2,No,3,FIFA,Not regular,Paid,3,positive,Bored,Yes,No,Yes
+24,Bachelor Level,Female,3.8,4,19,PC,0,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+27,Master's Level,Female,4,5,22,Mobile,23,No,5,CALL OF DUTY,Regular,Unpaid,3,negative,Excited,No,No,No
+18,Bachelor Level,Male,4,4.73,19,PC,22,No,3,FIFA,Not regular,Paid,2,negative,Excited,No,No,Yes
+18,Bachelor Level,Female,2.53,3.03,18,PC,2,No,4,PES,Regular,Paid,2,negative,Bored,Yes,No,Yes
+22,Bachelor Level,Female,3.19,4.29,18,PC,1,No,4,IGA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Male,4,5,18,PC,23,Yes,4,PUBG,Regular,Paid,4,negative,Bored,No,Yes,No
+27,Master's Level,Male,4,5,24,Mobile,23,No,4,PES,Not regular,Unpaid,4,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3,4,18,Mobile,23,Yes,4,PUBG,Not regular,Unpaid,4,negative,Excited,No,No,No
+24,Bachelor Level,Female,4,4.04,20,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Male,2.12,4.33,19,PC,1,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+19,Bachelor Level,Female,3,4.83,20,PC,22,No,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+27,Master's Level,Male,2.98,4,22,PC,0,Yes,2,FIFA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,3.25,4.43,19,Mobile,23,Yes,4,CALL OF DUTY,Regular,Unpaid,4,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.96,4.16,22,PC,1,No,2,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+21,Bachelor Level,Male,3,4.55,19,Mobile,23,No,3,FREE FIRE,Regular,Paid,2,positive,Bored,No,No,Yes
+26,Master's Level,Female,4,5,21,Mobile,22,No,3,CALL OF DUTY,Regular,Paid,2,negative,Bored,No,No,No
+19,Bachelor Level,Male,3,4,19,Mobile,22,Yes,5,PES,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+26,Master's Level,Male,3,3.18,22,Mobile,1,Yes,3,IGA,Not regular,Paid,3,positive,Bored,Yes,Yes,No
+27,Master's Level,Male,3.12,4,21,Mobile,1,No,5,COC,Regular,Paid,2,positive,Bored,No,Yes,No
+27,Master's Level,Male,2.76,4.75,20,Mobile,22,No,6,IGA,Regular,Unpaid,3,negative,Bored,Yes,No,No
+18,Bachelor Level,Female,4,4.22,20,PC,1,No,2,CALL OF DUTY,Regular,Paid,2,positive,Bored,No,Yes,No
+19,Bachelor Level,Female,3.19,4.5,19,Mobile,23,Yes,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,Yes
+20,Bachelor Level,Female,3.04,4,20,Mobile,1,No,3,FIFA,Not regular,Unpaid,3,negative,Excited,No,Yes,No
+22,Bachelor Level,Female,2,3.86,21,PC,0,No,2,PUBG,Not regular,Unpaid,3,positive,Bored,Yes,Yes,Yes
+18,Bachelor Level,Male,3,3.9,21,PC,2,Yes,3,PUBG,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+28,Master's Level,Male,2.75,4,23,PC,22,Yes,6,FIFA,Regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3,3.59,20,Mobile,23,No,2,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+20,Bachelor Level,Female,2.69,4,18,Mobile,22,Yes,2,FIFA,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Male,2.34,3,21,PC,23,Yes,3,FREE FIRE,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+27,Master's Level,Male,2.33,4,20,Mobile,1,Yes,5,PES,Regular,Unpaid,4,positive,Excited,No,No,Yes
+23,Bachelor Level,Female,2.6,5,20,Mobile,1,Yes,6,COC,Not regular,Paid,3,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,2.5,3.6,20,Mobile,22,Yes,3,IGA,Regular,Unpaid,2,positive,Bored,Yes,No,No
+23,Bachelor Level,Male,3,3.5,19,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,3.02,4.5,18,PC,2,No,2,COC,Regular,Unpaid,4,negative,Excited,Yes,No,Yes
+21,Bachelor Level,Female,3.02,3.95,21,Mobile,0,Yes,4,PES,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Male,3.4,4.52,21,Mobile,2,No,6,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,No,Yes
+27,Master's Level,Male,3,4.45,21,PC,22,No,3,IGA,Regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+20,Bachelor Level,Male,2.5,5,19,PC,1,Yes,3,PUBG,Not regular,Paid,2,negative,Bored,No,Yes,Yes
+19,Bachelor Level,Male,3,5,18,PC,2,No,6,FIFA,Not regular,Unpaid,4,negative,Excited,No,No,No
+18,Bachelor Level,Female,3.2,3,20,PC,23,No,5,PES,Not regular,Unpaid,3,negative,Bored,Yes,No,No
+24,Bachelor Level,Female,3,4,19,PC,22,No,5,PES,Regular,Unpaid,2,negative,Bored,Yes,No,No
+18,Bachelor Level,Male,2,4,19,Mobile,0,Yes,6,COC,Regular,Unpaid,4,positive,Excited,No,No,No
+18,Bachelor Level,Male,4,4.22,21,Mobile,0,No,3,FREE FIRE,Regular,Unpaid,4,negative,Bored,No,No,No
+19,Bachelor Level,Male,3.44,4,18,Mobile,22,No,6,FIFA,Not regular,Paid,4,positive,Excited,No,Yes,Yes
+27,Master's Level,Male,3.98,5,22,PC,23,Yes,4,IGA,Not regular,Paid,2,negative,Excited,No,No,No
+28,Master's Level,Female,3.82,4.65,20,Mobile,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,4,positive,Bored,No,No,Yes
+19,Bachelor Level,Male,2,4.15,18,Mobile,2,No,6,PES,Not regular,Unpaid,2,negative,Bored,No,No,Yes
+23,Bachelor Level,Male,2.77,4.71,18,Mobile,0,Yes,3,COC,Regular,Paid,2,negative,Excited,No,Yes,No
+24,Bachelor Level,Female,2,4.04,21,PC,2,Yes,3,PES,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Female,4,5,20,PC,23,No,2,CALL OF DUTY,Regular,Paid,4,positive,Bored,No,Yes,Yes
+25,Master's Level,Male,3,5,21,PC,23,Yes,5,COC,Regular,Unpaid,2,negative,Bored,Yes,No,No
+18,Bachelor Level,Female,4,5,19,Mobile,2,No,6,FIFA,Regular,Paid,4,negative,Excited,No,Yes,No
+28,Master's Level,Male,3.63,4,20,Mobile,23,No,2,COC,Regular,Unpaid,4,negative,Bored,No,No,No
+20,Bachelor Level,Female,3.84,5,18,Mobile,2,Yes,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,Yes
+28,Master's Level,Female,4,4.16,21,PC,0,Yes,2,COC,Not regular,Unpaid,4,negative,Bored,No,No,No
+23,Bachelor Level,Male,2.64,4.44,21,PC,1,Yes,2,CALL OF DUTY,Regular,Unpaid,2,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,2,4,20,PC,22,Yes,5,FREE FIRE,Not regular,Unpaid,2,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Female,3.41,5,19,PC,0,No,3,COC,Not regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3.48,3.8,18,Mobile,2,No,6,COC,Not regular,Unpaid,2,negative,Bored,Yes,Yes,No
+26,Master's Level,Male,3.69,4.28,21,Mobile,23,No,6,COC,Regular,Unpaid,2,negative,Excited,Yes,No,No
+28,Master's Level,Male,2.27,3,21,PC,22,Yes,2,CALL OF DUTY,Not regular,Paid,2,positive,Bored,No,No,Yes
+26,Master's Level,Male,2.61,4.03,24,Mobile,1,Yes,6,COC,Regular,Unpaid,3,positive,Bored,Yes,No,No
+26,Master's Level,Female,2.43,4,22,PC,2,Yes,4,COC,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+28,Master's Level,Female,2.84,4,21,Mobile,2,No,3,PES,Regular,Paid,3,negative,Excited,No,No,Yes
+21,Bachelor Level,Male,3,5,19,PC,22,No,4,IGA,Not regular,Paid,3,negative,Bored,No,No,No
+21,Bachelor Level,Male,3.4,4,21,Mobile,2,Yes,3,CALL OF DUTY,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+28,Master's Level,Male,3,4,23,Mobile,1,Yes,6,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,Yes,Yes
+19,Bachelor Level,Male,2.86,3.5,18,PC,1,No,3,IGA,Regular,Unpaid,4,negative,Bored,Yes,No,Yes
+19,Bachelor Level,Male,3.59,3,18,Mobile,23,No,3,CALL OF DUTY,Not regular,Paid,2,negative,Excited,No,No,Yes
+23,Bachelor Level,Male,3,4,18,PC,23,Yes,5,PES,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+21,Bachelor Level,Female,3.02,5,19,PC,1,Yes,5,CALL OF DUTY,Regular,Unpaid,2,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Female,3.84,4,18,PC,0,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Male,4,3,20,PC,23,Yes,5,PES,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,3,3.55,20,PC,23,No,4,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,No,No
+22,Bachelor Level,Male,2.8,4,19,PC,22,No,6,CALL OF DUTY,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+19,Bachelor Level,Female,2,3.75,21,Mobile,22,Yes,5,IGA,Regular,Paid,3,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,3.98,3,20,Mobile,23,No,6,CALL OF DUTY,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+22,Bachelor Level,Female,2.79,4.42,19,PC,22,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,No,Yes
+24,Bachelor Level,Male,2.97,3.98,18,PC,2,No,4,COC,Regular,Paid,4,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,3,3.11,18,PC,2,No,2,PUBG,Regular,Unpaid,4,positive,Bored,No,Yes,No
+26,Master's Level,Female,3,4.03,21,PC,23,No,5,CALL OF DUTY,Regular,Unpaid,4,negative,Excited,No,No,No
+21,Bachelor Level,Female,2.68,4.08,18,PC,2,Yes,2,PUBG,Regular,Unpaid,3,negative,Excited,Yes,No,No
+23,Bachelor Level,Male,3.85,5,19,PC,0,No,2,COC,Not regular,Unpaid,4,negative,Bored,Yes,No,No
+27,Master's Level,Male,3.35,2.16,24,PC,22,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Male,3,2,21,Mobile,22,Yes,3,PES,Regular,Paid,3,negative,Excited,Yes,No,No
+20,Bachelor Level,Male,4,5,21,PC,0,Yes,2,FREE FIRE,Regular,Unpaid,3,negative,Bored,No,Yes,Yes
+23,Bachelor Level,Female,3,3.93,18,PC,2,No,5,COC,Regular,Unpaid,2,positive,Excited,Yes,Yes,Yes
+25,Master's Level,Male,3,4.8,23,PC,22,Yes,3,COC,Not regular,Unpaid,4,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Male,2.2,4.29,24,Mobile,22,No,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+28,Master's Level,Male,3,3,22,PC,0,No,2,FIFA,Regular,Unpaid,2,positive,Excited,Yes,Yes,No
+20,Bachelor Level,Female,2,3.42,21,PC,1,No,6,COC,Regular,Unpaid,2,negative,Excited,No,No,Yes
+28,Master's Level,Female,4,5,21,PC,23,Yes,6,PUBG,Regular,Unpaid,2,positive,Bored,Yes,Yes,No
+18,Bachelor Level,Female,2.32,3.61,19,PC,22,Yes,2,CALL OF DUTY,Regular,Unpaid,2,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,2,3.39,19,Mobile,1,No,3,IGA,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+19,Bachelor Level,Male,3,3.75,21,Mobile,0,Yes,6,IGA,Not regular,Paid,4,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Male,2.6,3.19,20,Mobile,2,Yes,4,IGA,Regular,Paid,3,positive,Bored,Yes,No,No
+24,Bachelor Level,Male,2.54,3,20,Mobile,1,Yes,6,FIFA,Regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3.19,3,21,PC,23,Yes,5,PUBG,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3,3,18,PC,2,Yes,4,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+20,Bachelor Level,Female,3.96,4.03,19,Mobile,1,No,3,IGA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,2.6,3.03,20,Mobile,0,No,6,FREE FIRE,Not regular,Unpaid,3,positive,Bored,No,No,No
+22,Bachelor Level,Male,3,3.54,20,Mobile,2,No,4,PUBG,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Female,3,3.81,18,Mobile,22,Yes,5,PUBG,Regular,Paid,2,negative,Bored,No,Yes,Yes
+18,Bachelor Level,Male,2.5,4,18,Mobile,23,No,6,CALL OF DUTY,Regular,Paid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,3.01,4,18,PC,23,Yes,2,FREE FIRE,Regular,Paid,2,negative,Bored,No,No,No
+23,Bachelor Level,Female,2.19,3.35,21,Mobile,22,No,5,IGA,Regular,Paid,2,negative,Bored,No,No,No
+22,Bachelor Level,Female,3,3.65,20,Mobile,23,Yes,2,CALL OF DUTY,Not regular,Paid,4,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,2.56,4.13,20,PC,22,No,6,IGA,Regular,Paid,3,positive,Bored,No,No,No
+21,Bachelor Level,Male,2,3.82,21,PC,0,Yes,4,PES,Not regular,Unpaid,4,positive,Excited,No,No,Yes
+27,Master's Level,Male,4,4.72,20,PC,0,No,2,FREE FIRE,Not regular,Paid,4,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,3.5,4,21,Mobile,23,No,6,FREE FIRE,Not regular,Unpaid,4,negative,Bored,No,No,Yes
+28,Master's Level,Male,3,5,24,Mobile,22,Yes,5,COC,Regular,Unpaid,4,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.51,4.72,20,Mobile,2,No,2,COC,Regular,Unpaid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,4,4,21,PC,23,Yes,5,COC,Not regular,Paid,4,positive,Excited,Yes,Yes,No
+23,Bachelor Level,Female,3,5,20,PC,2,No,4,PUBG,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+22,Bachelor Level,Female,4,2.74,19,PC,1,No,2,COC,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+28,Master's Level,Male,2.6,4.46,24,Mobile,22,Yes,4,FIFA,Not regular,Unpaid,3,negative,Excited,No,No,No
+26,Master's Level,Female,3.52,5,21,PC,22,No,5,COC,Not regular,Paid,3,positive,Bored,No,No,Yes
+18,Bachelor Level,Male,2,3.75,20,PC,1,No,3,CALL OF DUTY,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Male,3.15,4,19,Mobile,22,No,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,No
+28,Master's Level,Male,3.23,4.54,22,PC,0,Yes,5,CALL OF DUTY,Regular,Paid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,2,4,19,Mobile,2,No,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+27,Master's Level,Male,2.79,3.36,20,Mobile,0,Yes,2,PUBG,Not regular,Paid,2,negative,Bored,Yes,No,No
+23,Bachelor Level,Female,3.2,4.9,18,PC,22,No,3,IGA,Regular,Paid,3,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,3.45,5,21,Mobile,2,Yes,6,COC,Not regular,Unpaid,3,negative,Bored,No,Yes,No
+26,Master's Level,Male,3,5,23,PC,1,Yes,3,FREE FIRE,Regular,Unpaid,3,positive,Excited,Yes,Yes,Yes
+20,Bachelor Level,Female,4,4.7,18,PC,23,Yes,2,FREE FIRE,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,2,4.02,18,PC,23,No,2,COC,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,3,4,21,PC,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,Yes,Yes,Yes
+22,Bachelor Level,Male,2.09,3,18,Mobile,0,No,6,CALL OF DUTY,Regular,Unpaid,4,positive,Bored,No,No,No
+20,Bachelor Level,Female,3.37,4.5,19,Mobile,2,Yes,6,IGA,Regular,Unpaid,4,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,3,5,20,PC,1,Yes,4,IGA,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,2,4,23,PC,2,No,4,COC,Regular,Paid,4,negative,Excited,Yes,No,Yes
+20,Bachelor Level,Female,3.04,4.8,19,Mobile,1,Yes,2,COC,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,3.1,4.16,21,PC,2,Yes,3,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+28,Master's Level,Female,2.5,3.9,24,Mobile,22,Yes,2,IGA,Regular,Paid,2,positive,Excited,No,No,Yes
+26,Master's Level,Male,2,3.23,22,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,positive,Bored,No,No,No
+19,Bachelor Level,Male,3,3,21,PC,1,Yes,3,PES,Regular,Paid,3,positive,Excited,Yes,No,No
+25,Master's Level,Male,4,2.96,24,Mobile,2,Yes,6,COC,Regular,Paid,2,negative,Excited,Yes,No,Yes
+25,Master's Level,Female,3.3,3.37,21,PC,2,No,3,FIFA,Not regular,Paid,3,positive,Bored,Yes,No,Yes
+23,Bachelor Level,Male,2.65,3.76,18,PC,1,Yes,6,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,No,No
+27,Master's Level,Female,3.77,5,22,Mobile,0,Yes,2,FREE FIRE,Regular,Paid,4,positive,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,3.01,4,19,PC,0,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+24,Bachelor Level,Female,2.41,5,20,PC,23,No,5,IGA,Not regular,Paid,2,positive,Bored,Yes,No,Yes
+27,Master's Level,Female,4,5,22,Mobile,23,No,5,CALL OF DUTY,Regular,Unpaid,3,negative,Excited,No,No,No
+22,Bachelor Level,Female,3,3,19,Mobile,0,Yes,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Male,4,4.73,19,PC,22,No,3,FIFA,Not regular,Paid,2,negative,Excited,No,No,Yes
+18,Bachelor Level,Female,2.53,3.03,18,PC,2,No,4,PES,Regular,Paid,2,negative,Bored,Yes,No,Yes
+22,Bachelor Level,Female,3.19,4.29,18,PC,1,No,4,IGA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+26,Master's Level,Male,3,4.15,22,Mobile,22,Yes,6,PES,Regular,Unpaid,4,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,2.5,3.9,18,PC,23,Yes,4,PUBG,Regular,Paid,4,negative,Bored,No,Yes,No
+27,Master's Level,Male,3,5,24,Mobile,23,No,4,PES,Not regular,Unpaid,4,negative,Excited,No,No,Yes
+18,Bachelor Level,Male,2.67,3.78,20,Mobile,1,Yes,3,PUBG,Not regular,Paid,3,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3,4,18,Mobile,23,Yes,4,PUBG,Not regular,Unpaid,4,negative,Excited,No,No,No
+20,Bachelor Level,Male,3,4.23,20,Mobile,2,No,2,PES,Regular,Unpaid,4,negative,Excited,No,Yes,No
+18,Bachelor Level,Female,3.67,3.17,18,Mobile,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+24,Bachelor Level,Female,3,4.04,20,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,3,4.25,19,Mobile,2,No,5,FIFA,Not regular,Paid,3,negative,Bored,Yes,Yes,Yes
+18,Bachelor Level,Male,2.12,4.33,19,PC,1,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+26,Master's Level,Female,3,4,23,Mobile,1,No,5,CALL OF DUTY,Regular,Paid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,3,4.83,20,PC,22,No,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,3,4.2,19,PC,1,Yes,3,COC,Regular,Unpaid,2,positive,Excited,No,Yes,No
+27,Master's Level,Male,2.98,4,22,PC,0,Yes,2,FIFA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,3.25,4.43,19,Mobile,23,Yes,4,CALL OF DUTY,Regular,Unpaid,4,negative,Bored,Yes,No,No
+22,Bachelor Level,Male,2,4,21,Mobile,23,Yes,3,FREE FIRE,Not regular,Paid,2,positive,Excited,No,No,No
+18,Bachelor Level,Female,3.75,5,20,Mobile,22,No,2,CALL OF DUTY,Regular,Paid,3,negative,Bored,No,Yes,No
+26,Master's Level,Female,3.96,5,22,PC,1,No,2,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+22,Bachelor Level,Male,2.9,4.5,19,PC,22,No,5,FREE FIRE,Not regular,Paid,4,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Male,3,4.55,19,Mobile,23,No,3,FREE FIRE,Regular,Paid,2,positive,Bored,No,No,Yes
+21,Bachelor Level,Female,2.88,5,21,PC,23,No,6,FIFA,Regular,Paid,3,negative,Excited,No,Yes,Yes
+26,Master's Level,Female,3.21,3,21,Mobile,22,No,3,CALL OF DUTY,Regular,Paid,2,negative,Bored,No,No,No
+20,Bachelor Level,Female,3.37,2,20,Mobile,1,Yes,5,PUBG,Not regular,Unpaid,4,negative,Bored,No,No,No
+19,Bachelor Level,Male,3,4,19,Mobile,22,Yes,5,PES,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+26,Master's Level,Male,3,3.18,22,Mobile,1,Yes,3,IGA,Not regular,Paid,3,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Female,3.77,4.21,20,Mobile,0,No,5,IGA,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+27,Master's Level,Male,3.12,4,21,Mobile,1,No,5,COC,Regular,Paid,2,positive,Bored,No,Yes,No
+24,Bachelor Level,Male,2.24,4.91,21,Mobile,1,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,Yes,No
+27,Master's Level,Male,2.76,4.75,20,Mobile,22,No,6,IGA,Regular,Unpaid,3,negative,Bored,Yes,No,No
+21,Bachelor Level,Male,3.77,5,18,PC,22,No,2,IGA,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+18,Bachelor Level,Female,4,4.22,20,PC,1,No,2,CALL OF DUTY,Regular,Paid,2,positive,Bored,No,Yes,No
+24,Bachelor Level,Male,3,4,18,Mobile,22,No,4,PUBG,Not regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Female,3.19,5,19,Mobile,23,Yes,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,Yes
+20,Bachelor Level,Female,3.04,4,20,Mobile,1,No,3,FIFA,Not regular,Unpaid,3,negative,Excited,No,Yes,No
+27,Master's Level,Female,2,3.59,22,PC,22,No,4,COC,Regular,Unpaid,2,negative,Bored,Yes,No,No
+22,Bachelor Level,Female,4,5,21,PC,0,No,2,PUBG,Not regular,Unpaid,3,positive,Bored,Yes,Yes,Yes
+18,Bachelor Level,Male,3,4.31,21,PC,2,Yes,3,PUBG,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+21,Bachelor Level,Female,2.3,3,19,PC,0,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,3,3,21,PC,22,Yes,6,IGA,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+28,Master's Level,Male,2.75,4,23,PC,22,Yes,6,FIFA,Regular,Paid,2,positive,Bored,Yes,No,Yes
+18,Bachelor Level,Female,3.21,4,18,Mobile,1,No,5,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,No,No
+20,Bachelor Level,Female,3,3.59,20,Mobile,23,No,2,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+18,Bachelor Level,Female,3.22,4,19,Mobile,23,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,No,Yes,No
+20,Bachelor Level,Female,3.5,4,18,Mobile,22,Yes,2,FIFA,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Male,2.34,3,21,PC,23,Yes,3,FREE FIRE,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3.62,4.78,18,PC,0,No,2,PUBG,Not regular,Unpaid,2,negative,Bored,Yes,No,No
+27,Master's Level,Male,3.33,5,20,Mobile,1,Yes,5,PES,Regular,Unpaid,4,positive,Excited,No,No,Yes
+26,Master's Level,Female,3.51,4.7,24,PC,2,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,No,No
+23,Bachelor Level,Female,3,5,20,Mobile,1,Yes,6,COC,Not regular,Paid,3,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3,4,20,Mobile,22,Yes,3,IGA,Regular,Unpaid,2,positive,Bored,Yes,No,No
+19,Bachelor Level,Male,4,3.38,19,Mobile,23,No,3,FIFA,Not regular,Paid,3,positive,Bored,No,No,Yes
+23,Bachelor Level,Male,4,5,19,Mobile,23,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,3.02,5,18,PC,2,No,2,COC,Regular,Unpaid,4,negative,Excited,Yes,No,Yes
+21,Bachelor Level,Female,4,4.5,21,Mobile,0,Yes,4,PES,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+21,Bachelor Level,Female,3.16,5,19,PC,2,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,No,Yes
+26,Master's Level,Male,3,5,24,PC,23,Yes,4,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Male,2,4,21,Mobile,2,No,6,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,No,Yes
+22,Bachelor Level,Male,3,4.54,18,Mobile,22,No,6,IGA,Not regular,Unpaid,2,positive,Bored,Yes,Yes,No
+27,Master's Level,Male,4,4.45,21,PC,22,No,3,IGA,Regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3,4.14,19,Mobile,0,Yes,6,FIFA,Not regular,Paid,3,negative,Excited,No,Yes,No
+20,Bachelor Level,Male,3,5,19,PC,1,Yes,3,PUBG,Not regular,Paid,2,negative,Bored,No,Yes,Yes
+24,Bachelor Level,Female,2.23,4,18,PC,22,Yes,4,CALL OF DUTY,Regular,Unpaid,4,positive,Excited,No,No,No
+27,Master's Level,Female,2.09,4.15,20,PC,22,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Female,2,5,20,PC,23,Yes,6,PUBG,Regular,Paid,4,positive,Bored,Yes,No,Yes
+18,Bachelor Level,Female,3.7,3,20,PC,23,No,5,PES,Not regular,Unpaid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,3,3.47,18,PC,2,No,6,FIFA,Not regular,Unpaid,4,negative,Excited,No,No,No
+18,Bachelor Level,Female,3.76,4.17,21,Mobile,1,Yes,2,FREE FIRE,Not regular,Unpaid,2,negative,Bored,No,Yes,Yes
+28,Master's Level,Male,3.35,4.36,21,PC,0,No,2,FIFA,Not regular,Paid,2,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,3,4,19,PC,22,No,5,PES,Regular,Unpaid,2,negative,Bored,Yes,No,No
+25,Master's Level,Female,3.99,5,23,Mobile,22,Yes,4,FIFA,Not regular,Paid,3,negative,Bored,Yes,No,No
+18,Bachelor Level,Male,2,3.8,19,Mobile,0,Yes,6,COC,Regular,Unpaid,4,positive,Excited,No,No,No
+28,Master's Level,Male,2.89,4.48,20,Mobile,2,Yes,5,PES,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+18,Bachelor Level,Male,4,4.22,21,Mobile,0,No,3,FREE FIRE,Regular,Unpaid,4,negative,Bored,No,No,No
+19,Bachelor Level,Male,3.44,2.8,18,Mobile,22,No,6,FIFA,Not regular,Paid,4,positive,Excited,No,Yes,Yes
+22,Bachelor Level,Female,3,3.5,18,Mobile,2,No,4,CALL OF DUTY,Regular,Paid,2,negative,Bored,Yes,No,No
+27,Master's Level,Male,3.98,5,22,PC,23,Yes,4,IGA,Not regular,Paid,2,negative,Excited,No,No,No
+24,Bachelor Level,Female,3.05,4.5,20,PC,1,Yes,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,No
+18,Bachelor Level,Male,2.31,3,20,PC,2,Yes,2,PUBG,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+28,Master's Level,Female,3.82,4.65,20,Mobile,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,4,positive,Bored,No,No,Yes
+19,Bachelor Level,Male,2,4.15,18,Mobile,2,No,6,PES,Not regular,Unpaid,2,negative,Bored,No,No,Yes
+27,Master's Level,Female,3,4.82,23,PC,2,No,2,FREE FIRE,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Male,2.77,4.71,18,Mobile,0,Yes,3,COC,Regular,Paid,2,negative,Excited,No,Yes,No
+24,Bachelor Level,Female,2,4,21,PC,2,Yes,3,PES,Not regular,Paid,3,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Female,3.5,5,21,PC,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3,4,21,Mobile,0,No,2,PES,Not regular,Paid,2,negative,Excited,No,No,No
+21,Bachelor Level,Female,3.64,5,20,PC,23,No,2,CALL OF DUTY,Regular,Paid,4,positive,Bored,No,Yes,Yes
+19,Bachelor Level,Male,4,3.63,20,PC,23,No,5,FREE FIRE,Regular,Unpaid,3,negative,Excited,No,Yes,No
+25,Master's Level,Male,3,2,21,PC,23,Yes,5,COC,Regular,Unpaid,2,negative,Bored,Yes,No,No
+24,Bachelor Level,Female,3,4,18,PC,0,No,3,PUBG,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+18,Bachelor Level,Female,3,4,19,Mobile,2,No,6,FIFA,Regular,Paid,4,negative,Excited,No,Yes,No
+23,Bachelor Level,Male,3,4.08,19,Mobile,23,No,2,COC,Regular,Paid,4,negative,Excited,No,Yes,No
+28,Master's Level,Male,3.63,5,20,Mobile,23,No,2,COC,Regular,Unpaid,4,negative,Bored,No,No,No
+27,Master's Level,Female,3.21,4,21,PC,2,No,3,IGA,Regular,Unpaid,2,negative,Bored,Yes,No,Yes
+25,Master's Level,Male,2.04,3,22,Mobile,0,Yes,5,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+20,Bachelor Level,Female,3.5,5,18,Mobile,2,Yes,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,Yes
+28,Master's Level,Female,4,5,21,PC,0,Yes,2,COC,Not regular,Unpaid,4,negative,Bored,No,No,No
+23,Bachelor Level,Male,2.64,4.44,21,PC,1,Yes,2,CALL OF DUTY,Regular,Unpaid,2,positive,Bored,Yes,No,No
+25,Master's Level,Male,3,3,23,Mobile,1,No,6,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,2,4,20,PC,22,Yes,5,FREE FIRE,Not regular,Unpaid,2,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Male,3.52,5,18,PC,0,Yes,2,PES,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,3.66,4,19,PC,23,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+24,Bachelor Level,Female,3.41,5,19,PC,0,No,3,COC,Not regular,Unpaid,4,positive,Bored,Yes,Yes,Yes
+28,Master's Level,Female,3.03,4,24,Mobile,1,No,4,CALL OF DUTY,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Male,3.45,3.8,18,Mobile,2,No,6,COC,Not regular,Unpaid,2,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Male,2.56,3,18,Mobile,1,No,2,PES,Regular,Paid,3,negative,Bored,No,No,No
+26,Master's Level,Male,3.69,4.28,21,Mobile,23,No,6,COC,Regular,Unpaid,2,negative,Excited,Yes,No,No
+27,Master's Level,Female,3.39,2.35,22,Mobile,23,No,4,COC,Regular,Paid,4,positive,Excited,No,Yes,Yes
+28,Master's Level,Male,2.27,3,21,PC,22,Yes,2,CALL OF DUTY,Not regular,Paid,2,positive,Bored,No,No,Yes
+26,Master's Level,Male,2.61,4.03,24,Mobile,1,Yes,6,COC,Regular,Unpaid,3,positive,Bored,Yes,No,No
+21,Bachelor Level,Male,3.51,4,20,PC,1,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+26,Master's Level,Female,2.43,4,22,PC,2,Yes,4,COC,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+28,Master's Level,Female,2.84,4,21,Mobile,2,No,3,PES,Regular,Paid,3,negative,Excited,No,No,Yes
+28,Master's Level,Female,2,3,24,PC,0,Yes,4,IGA,Not regular,Paid,4,negative,Excited,No,Yes,No
+20,Bachelor Level,Female,2.5,3.01,20,PC,22,No,3,FIFA,Not regular,Paid,2,negative,Excited,No,Yes,No
+20,Bachelor Level,Male,3,4,18,PC,2,No,4,IGA,Regular,Unpaid,4,negative,Excited,Yes,No,No
+26,Master's Level,Male,3,4.02,24,Mobile,23,Yes,5,CALL OF DUTY,Regular,Unpaid,2,positive,Excited,No,Yes,Yes
+24,Bachelor Level,Female,2.36,3.65,21,Mobile,1,No,2,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,Yes,Yes
+21,Bachelor Level,Male,3,5,19,PC,22,No,4,IGA,Not regular,Paid,3,negative,Bored,No,No,No
+23,Bachelor Level,Male,2.5,2.23,21,PC,1,Yes,2,PES,Regular,Unpaid,3,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3,4,21,Mobile,2,Yes,3,CALL OF DUTY,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+21,Bachelor Level,Male,4,5,18,PC,1,No,4,PES,Regular,Unpaid,4,positive,Excited,No,No,No
+28,Master's Level,Male,3.8,4,23,Mobile,1,Yes,6,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,Yes,Yes
+20,Bachelor Level,Female,2.38,4,19,PC,1,No,5,FIFA,Regular,Paid,2,negative,Excited,No,No,Yes
+19,Bachelor Level,Male,2.86,4.5,18,PC,1,No,3,IGA,Regular,Unpaid,4,negative,Bored,Yes,No,Yes
+19,Bachelor Level,Male,3.59,3,18,Mobile,23,No,3,CALL OF DUTY,Not regular,Paid,2,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,2.87,4,21,Mobile,0,Yes,2,PUBG,Regular,Paid,4,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Male,3,4.66,21,Mobile,22,No,3,IGA,Regular,Unpaid,2,negative,Excited,Yes,No,Yes
+23,Bachelor Level,Male,3.75,5,18,PC,23,Yes,5,PES,Not regular,Unpaid,2,negative,Excited,No,Yes,No
+28,Master's Level,Female,2.18,5,21,PC,1,No,2,FREE FIRE,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+21,Bachelor Level,Female,3.02,4,19,PC,1,Yes,5,CALL OF DUTY,Regular,Unpaid,2,positive,Bored,Yes,Yes,No
+27,Master's Level,Female,3.13,5,20,PC,23,Yes,2,PES,Regular,Unpaid,4,negative,Bored,No,No,No
+20,Bachelor Level,Male,3.71,5,18,Mobile,1,Yes,3,CALL OF DUTY,Regular,Unpaid,2,negative,Excited,No,No,No
+21,Bachelor Level,Female,3.84,4,18,PC,0,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+27,Master's Level,Male,3.65,3,22,Mobile,2,No,4,FREE FIRE,Regular,Unpaid,3,negative,Excited,Yes,No,No
+19,Bachelor Level,Female,2.5,3,18,Mobile,22,No,3,FREE FIRE,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+19,Bachelor Level,Male,2,3,20,PC,23,Yes,5,PES,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,2,3.55,20,PC,23,No,4,FREE FIRE,Regular,Unpaid,2,positive,Excited,No,No,No
+22,Bachelor Level,Male,3,4,19,PC,22,No,6,CALL OF DUTY,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+22,Bachelor Level,Female,3.94,5,18,Mobile,23,Yes,5,FREE FIRE,Regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Male,3.87,4.1,19,Mobile,22,Yes,6,PES,Regular,Paid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Female,2,4,21,Mobile,22,Yes,5,IGA,Regular,Paid,3,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,3.98,5,20,Mobile,23,No,6,CALL OF DUTY,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Male,3,4,21,Mobile,1,No,6,COC,Regular,Paid,3,negative,Bored,No,No,No
+22,Bachelor Level,Female,2.79,4.23,19,PC,22,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,No,Yes
+24,Bachelor Level,Male,3,4,18,PC,2,No,4,COC,Regular,Paid,4,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,3.02,3.11,18,PC,2,No,2,PUBG,Regular,Unpaid,4,positive,Bored,No,Yes,No
+26,Master's Level,Female,3,4.03,21,PC,23,No,5,CALL OF DUTY,Regular,Unpaid,4,negative,Excited,No,No,No
+21,Bachelor Level,Female,2,4.07,18,PC,2,Yes,2,PUBG,Regular,Unpaid,3,negative,Excited,Yes,No,No
+23,Bachelor Level,Male,3.85,5,19,PC,0,No,2,COC,Not regular,Unpaid,4,negative,Bored,Yes,No,No
+27,Master's Level,Male,3.35,4,24,PC,22,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+24,Bachelor Level,Male,3,4,21,Mobile,22,Yes,3,PES,Regular,Paid,3,negative,Excited,Yes,No,No
+20,Bachelor Level,Male,4,5,21,PC,0,Yes,2,FREE FIRE,Regular,Unpaid,3,negative,Bored,No,Yes,Yes
+23,Bachelor Level,Female,3,4.95,18,PC,2,No,5,COC,Regular,Unpaid,2,positive,Excited,Yes,Yes,Yes
+25,Master's Level,Male,3,4.8,23,PC,22,Yes,3,COC,Not regular,Unpaid,4,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Male,2.2,4.29,24,Mobile,22,No,2,FIFA,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+28,Master's Level,Male,3,3,22,PC,0,No,2,FIFA,Regular,Unpaid,2,positive,Excited,Yes,Yes,No
+20,Bachelor Level,Female,2,3.42,21,PC,1,No,6,COC,Regular,Unpaid,2,negative,Excited,No,No,Yes
+28,Master's Level,Female,3,4,21,PC,23,Yes,6,PUBG,Regular,Unpaid,2,positive,Bored,Yes,Yes,No
+18,Bachelor Level,Female,2.32,4.61,19,PC,22,Yes,2,CALL OF DUTY,Regular,Unpaid,2,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,2,3.39,19,Mobile,1,No,3,IGA,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+19,Bachelor Level,Male,3,3.75,21,Mobile,0,Yes,6,IGA,Not regular,Paid,4,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Male,3.1,4.19,20,Mobile,2,Yes,4,IGA,Regular,Paid,3,positive,Bored,Yes,No,No
+24,Bachelor Level,Male,2.54,3,20,Mobile,1,Yes,6,FIFA,Regular,Unpaid,3,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3.19,3,21,PC,23,Yes,5,PUBG,Regular,Paid,4,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Male,3,3,18,PC,2,Yes,4,IGA,Not regular,Paid,4,negative,Excited,Yes,No,No
+20,Bachelor Level,Female,3.96,5,19,Mobile,1,No,3,IGA,Not regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,4,5,20,Mobile,0,No,6,FREE FIRE,Not regular,Unpaid,3,positive,Bored,No,No,No
+22,Bachelor Level,Male,4,5,20,Mobile,2,No,4,PUBG,Not regular,Paid,4,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Female,4,5,18,Mobile,22,Yes,5,PUBG,Regular,Paid,2,negative,Bored,No,Yes,Yes
+18,Bachelor Level,Male,2,4,18,Mobile,23,No,6,CALL OF DUTY,Regular,Paid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,2,4,18,PC,23,Yes,2,FREE FIRE,Regular,Paid,2,negative,Bored,No,No,No
+23,Bachelor Level,Female,2.19,3.35,21,Mobile,22,No,5,IGA,Regular,Paid,2,negative,Bored,No,No,No
+18,Bachelor Level,Male,3,4,21,Mobile,23,Yes,6,PES,Not regular,Paid,4,positive,Excited,No,Yes,Yes
+22,Bachelor Level,Female,3,3.51,20,Mobile,23,Yes,2,CALL OF DUTY,Not regular,Paid,4,positive,Bored,Yes,No,No
+28,Master's Level,Female,3.55,5,22,Mobile,2,Yes,3,FREE FIRE,Regular,Unpaid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,2.56,4.13,20,PC,22,No,6,IGA,Regular,Paid,3,positive,Bored,No,No,No
+21,Bachelor Level,Male,2,3.82,21,PC,0,Yes,4,PES,Not regular,Unpaid,4,positive,Excited,No,No,Yes
+27,Master's Level,Male,4,5,20,PC,0,No,2,FREE FIRE,Not regular,Paid,4,positive,Bored,Yes,No,No
+24,Bachelor Level,Female,3.5,4,21,Mobile,23,No,6,FREE FIRE,Not regular,Unpaid,4,negative,Bored,No,No,Yes
+28,Master's Level,Male,3,5,24,Mobile,22,Yes,5,COC,Regular,Unpaid,4,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.52,4.72,20,Mobile,2,No,2,COC,Regular,Unpaid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,3,4,21,PC,23,Yes,5,COC,Not regular,Paid,4,positive,Excited,Yes,Yes,No
+23,Bachelor Level,Female,3.24,5,20,PC,2,No,4,PUBG,Not regular,Paid,3,negative,Bored,No,Yes,Yes
+22,Bachelor Level,Female,3,3.74,19,PC,1,No,2,COC,Not regular,Paid,3,negative,Excited,Yes,Yes,No
+28,Master's Level,Male,3.5,4.46,24,Mobile,22,Yes,4,FIFA,Not regular,Unpaid,3,negative,Excited,No,No,No
+26,Master's Level,Female,3.52,5,21,PC,22,No,5,COC,Not regular,Paid,3,positive,Bored,No,No,Yes
+18,Bachelor Level,Male,3,4,20,PC,1,No,3,CALL OF DUTY,Not regular,Unpaid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Male,3.01,4,19,Mobile,22,No,5,FIFA,Regular,Unpaid,3,negative,Bored,No,No,No
+28,Master's Level,Male,2.98,4.54,22,PC,0,Yes,5,CALL OF DUTY,Regular,Paid,4,negative,Bored,Yes,Yes,No
+23,Bachelor Level,Female,3,4.5,19,Mobile,2,No,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+27,Master's Level,Male,2.79,3.36,20,Mobile,0,Yes,2,PUBG,Not regular,Paid,2,negative,Bored,Yes,No,No
+23,Bachelor Level,Female,2.8,3.98,18,PC,22,No,3,IGA,Regular,Paid,3,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,2.7,4,21,Mobile,2,Yes,6,COC,Not regular,Unpaid,3,negative,Bored,No,Yes,No
+26,Master's Level,Male,2,3,23,PC,1,Yes,3,FREE FIRE,Regular,Unpaid,3,positive,Excited,Yes,Yes,Yes
+20,Bachelor Level,Female,3,4.7,18,PC,23,Yes,2,FREE FIRE,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,2,4.02,18,PC,23,No,2,COC,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Female,3,4,21,PC,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,Yes,Yes,Yes
+22,Bachelor Level,Male,2.09,3,18,Mobile,0,No,6,CALL OF DUTY,Regular,Unpaid,4,positive,Bored,No,No,No
+20,Bachelor Level,Female,3,4,19,Mobile,2,Yes,6,IGA,Regular,Unpaid,4,negative,Bored,No,No,Yes
+21,Bachelor Level,Female,4,5,20,PC,1,Yes,4,IGA,Not regular,Paid,3,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,2,4,23,PC,2,No,4,COC,Regular,Paid,4,negative,Excited,Yes,No,Yes
+20,Bachelor Level,Female,3,4,19,Mobile,1,Yes,2,COC,Regular,Paid,2,negative,Bored,Yes,Yes,Yes
+23,Bachelor Level,Female,3,4.16,21,PC,2,Yes,3,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+28,Master's Level,Female,3.4,4.55,24,Mobile,22,Yes,2,IGA,Regular,Paid,2,positive,Excited,No,No,Yes
+26,Master's Level,Male,3,3.23,22,Mobile,22,No,5,CALL OF DUTY,Not regular,Paid,3,positive,Bored,No,No,No
+19,Bachelor Level,Male,3,3,21,PC,1,Yes,3,PES,Regular,Paid,3,positive,Excited,Yes,No,No
+25,Master's Level,Male,3,3.94,24,Mobile,2,Yes,6,COC,Regular,Paid,2,negative,Excited,Yes,No,Yes
+23,Bachelor Level,Male,2.9,3.76,18,PC,1,Yes,6,CALL OF DUTY,Not regular,Paid,2,negative,Excited,Yes,No,No
+27,Master's Level,Female,3.5,5,22,Mobile,0,Yes,2,FREE FIRE,Regular,Paid,4,positive,Bored,Yes,Yes,Yes
+24,Bachelor Level,Female,2.41,5,20,PC,23,No,5,IGA,Not regular,Paid,2,positive,Bored,Yes,No,Yes
+22,Bachelor Level,Female,3,3,19,Mobile,0,Yes,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,No
+26,Master's Level,Male,3,4.15,22,Mobile,22,Yes,6,PES,Regular,Unpaid,4,negative,Bored,Yes,No,No
+18,Bachelor Level,Male,4,3.78,20,Mobile,1,Yes,3,PUBG,Not regular,Paid,3,negative,Excited,No,No,Yes
+20,Bachelor Level,Male,3,4,20,Mobile,2,No,2,PES,Regular,Unpaid,4,negative,Excited,No,Yes,No
+18,Bachelor Level,Female,3.67,4.5,18,Mobile,23,Yes,6,FIFA,Not regular,Unpaid,2,negative,Bored,No,Yes,No
+24,Bachelor Level,Male,3,5,19,Mobile,2,No,5,FIFA,Not regular,Paid,3,negative,Bored,Yes,Yes,Yes
+26,Master's Level,Female,3,4,23,Mobile,1,No,5,CALL OF DUTY,Regular,Paid,2,positive,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,3,3.98,19,PC,1,Yes,3,COC,Regular,Unpaid,2,positive,Excited,No,Yes,No
+22,Bachelor Level,Male,2,4,21,Mobile,23,Yes,3,FREE FIRE,Not regular,Paid,2,positive,Excited,No,No,No
+18,Bachelor Level,Female,3.75,5,20,Mobile,22,No,2,CALL OF DUTY,Regular,Paid,3,negative,Bored,No,Yes,No
+22,Bachelor Level,Male,2.9,5,19,PC,22,No,5,FREE FIRE,Not regular,Paid,4,negative,Bored,Yes,No,Yes
+21,Bachelor Level,Female,2.88,4,21,PC,23,No,6,FIFA,Regular,Paid,3,negative,Excited,No,Yes,Yes
+20,Bachelor Level,Female,3.37,4.75,20,Mobile,1,Yes,5,PUBG,Not regular,Unpaid,4,negative,Bored,No,No,No
+21,Bachelor Level,Female,3,4,20,Mobile,0,No,5,IGA,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+24,Bachelor Level,Male,2.24,4.91,21,Mobile,1,Yes,3,FIFA,Not regular,Paid,4,negative,Bored,No,Yes,No
+21,Bachelor Level,Male,3.77,5,18,PC,22,No,2,IGA,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+24,Bachelor Level,Male,3,4,18,Mobile,22,No,4,PUBG,Not regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+27,Master's Level,Female,2,3.59,22,PC,22,No,4,COC,Regular,Unpaid,2,negative,Bored,Yes,No,No
+21,Bachelor Level,Female,4,3,19,PC,0,Yes,6,FREE FIRE,Not regular,Paid,3,negative,Bored,Yes,Yes,No
+24,Bachelor Level,Female,4,3,21,PC,22,Yes,6,IGA,Not regular,Unpaid,4,negative,Excited,Yes,Yes,No
+18,Bachelor Level,Female,3.5,5,18,Mobile,1,No,5,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,No,No
+18,Bachelor Level,Female,3.22,4,19,Mobile,23,No,6,FREE FIRE,Regular,Unpaid,4,negative,Excited,No,Yes,No
+21,Bachelor Level,Male,3.62,4.78,18,PC,0,No,2,PUBG,Not regular,Unpaid,2,negative,Bored,Yes,No,No
+26,Master's Level,Female,3.2,4.7,24,PC,2,No,5,PUBG,Not regular,Unpaid,3,negative,Bored,Yes,No,No
+19,Bachelor Level,Male,3,3.38,19,Mobile,23,No,3,FIFA,Not regular,Paid,3,positive,Bored,No,No,Yes
+21,Bachelor Level,Female,3,5,19,PC,2,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,No,Yes
+26,Master's Level,Male,3.5,5,24,PC,23,Yes,4,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Male,3,4.54,18,Mobile,22,No,6,IGA,Not regular,Unpaid,2,positive,Bored,Yes,Yes,No
+21,Bachelor Level,Male,3.1,4.14,19,Mobile,0,Yes,6,FIFA,Not regular,Paid,3,negative,Excited,No,Yes,No
+24,Bachelor Level,Female,2.23,4,18,PC,22,Yes,4,CALL OF DUTY,Regular,Unpaid,4,positive,Excited,No,No,No
+27,Master's Level,Female,2.09,4.2,20,PC,22,Yes,6,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,Yes
+21,Bachelor Level,Female,2,5,20,PC,23,Yes,6,PUBG,Regular,Paid,4,positive,Bored,Yes,No,Yes
+18,Bachelor Level,Female,3.76,4.17,21,Mobile,1,Yes,2,FREE FIRE,Not regular,Unpaid,2,negative,Bored,No,Yes,Yes
+25,Master's Level,Female,3.99,3.86,23,Mobile,22,Yes,4,FIFA,Not regular,Paid,3,negative,Bored,Yes,No,No
+28,Master's Level,Male,2.89,4.48,20,Mobile,2,Yes,5,PES,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+22,Bachelor Level,Female,3,3,18,Mobile,2,No,4,CALL OF DUTY,Regular,Paid,2,negative,Bored,Yes,No,No
+24,Bachelor Level,Female,3.05,3.6,20,PC,1,Yes,6,PES,Regular,Paid,4,negative,Bored,Yes,Yes,No
+18,Bachelor Level,Male,2.31,4,20,PC,2,Yes,2,PUBG,Not regular,Unpaid,4,negative,Bored,No,Yes,No
+27,Master's Level,Female,2,4.82,23,PC,2,No,2,FREE FIRE,Not regular,Paid,2,negative,Excited,Yes,Yes,Yes
+21,Bachelor Level,Female,3.5,5,21,PC,2,Yes,4,CALL OF DUTY,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+22,Bachelor Level,Male,3,4,21,Mobile,0,No,2,PES,Not regular,Paid,2,negative,Excited,No,No,No
+24,Bachelor Level,Female,4,5,18,PC,0,No,3,PUBG,Not regular,Paid,4,negative,Bored,No,Yes,Yes
+23,Bachelor Level,Male,3,4.08,19,Mobile,23,No,2,COC,Regular,Paid,4,negative,Excited,No,Yes,No
+27,Master's Level,Female,2.52,4,21,PC,2,No,3,IGA,Regular,Unpaid,2,negative,Bored,Yes,No,Yes
+25,Master's Level,Male,2.04,3,22,Mobile,0,Yes,5,CALL OF DUTY,Not regular,Paid,4,negative,Excited,Yes,No,No
+25,Master's Level,Male,3,4,23,Mobile,1,No,6,IGA,Not regular,Unpaid,3,negative,Bored,Yes,Yes,No
+18,Bachelor Level,Male,3.5,5,18,PC,0,Yes,2,PES,Regular,Unpaid,2,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,3.66,4.83,19,PC,23,Yes,6,CALL OF DUTY,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,3.03,4,24,Mobile,1,No,4,CALL OF DUTY,Not regular,Unpaid,4,negative,Bored,Yes,No,Yes
+23,Bachelor Level,Male,2.56,3,18,Mobile,1,No,2,PES,Regular,Paid,3,negative,Bored,No,No,No
+27,Master's Level,Female,2.39,4,22,Mobile,23,No,4,COC,Regular,Paid,4,positive,Excited,No,Yes,Yes
+21,Bachelor Level,Male,3.5,4,20,PC,1,No,2,IGA,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3,5,20,PC,0,Yes,5,FREE FIRE,Regular,Unpaid,2,negative,Excited,No,Yes,Yes
+28,Master's Level,Female,3.1,4,24,PC,0,Yes,4,IGA,Not regular,Paid,4,negative,Excited,No,Yes,No
+20,Bachelor Level,Male,3,3,18,PC,2,No,4,IGA,Regular,Unpaid,4,negative,Excited,Yes,No,No
+24,Bachelor Level,Female,2.36,3.65,21,Mobile,1,No,2,FREE FIRE,Not regular,Unpaid,2,negative,Excited,No,Yes,Yes
+23,Bachelor Level,Male,3,4.23,21,PC,1,Yes,2,PES,Regular,Unpaid,3,positive,Bored,Yes,Yes,Yes
+21,Bachelor Level,Male,3.4,4.09,18,PC,1,No,4,PES,Regular,Unpaid,4,positive,Excited,No,No,No
+20,Bachelor Level,Female,2.38,4,19,PC,1,No,5,FIFA,Regular,Paid,2,negative,Excited,No,No,Yes
+24,Bachelor Level,Female,3.1,4,21,Mobile,0,Yes,2,PUBG,Regular,Paid,4,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Male,3,4.66,21,Mobile,22,No,3,IGA,Regular,Unpaid,2,negative,Excited,Yes,No,Yes
+28,Master's Level,Female,2.18,5,21,PC,1,No,2,FREE FIRE,Not regular,Unpaid,3,negative,Excited,No,Yes,Yes
+27,Master's Level,Female,3.13,5,20,PC,23,Yes,2,PES,Regular,Unpaid,4,negative,Bored,No,No,No
+27,Master's Level,Male,3.01,3.5,22,Mobile,2,No,4,FREE FIRE,Regular,Unpaid,3,negative,Excited,Yes,No,No
+19,Bachelor Level,Female,3,4,18,Mobile,22,No,3,FREE FIRE,Not regular,Unpaid,3,negative,Bored,No,No,Yes
+22,Bachelor Level,Female,3,4.52,18,Mobile,23,Yes,5,FREE FIRE,Regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Male,3.87,5,19,Mobile,22,Yes,6,PES,Regular,Paid,3,negative,Bored,Yes,No,No
+21,Bachelor Level,Male,3,4.2,21,Mobile,1,No,6,COC,Regular,Paid,3,negative,Bored,No,No,No
+22,Bachelor Level,Female,3.68,5,17,Mobile,22,Yes,2,PUBG,Regular,Unpaid,3,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,3.52,4.66,16,PC,1,No,4,PUBG,Not regular,Paid,2,negative,Excited,No,Yes,Yes
+26,Master's Level,Male,2.85,3.48,22,Mobile,2,Yes,3,PES,Regular,Unpaid,4,negative,Bored,Yes,Yes,No
+25,Master's Level,Female,3.99,4.01,20,PC,22,No,4,PES,Not regular,Paid,3,negative,Bored,No,No,Yes
+24,Master's Level,Female,3.81,3.34,16,Mobile,0,No,4,IGA,Regular,Paid,4,positive,Excited,Yes,No,No
+18,Bachelor Level,Female,3.85,4.02,18,PC,1,No,1,FREE FIRE,Regular,Paid,1,negative,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,3.92,3.98,18,Mobile,0,No,4,IGA,Not regular,Unpaid,2,positive,Bored,Yes,No,No
+21,Bachelor Level,Female,2.73,3.08,19,PC,2,Yes,1,PES,Regular,Unpaid,1,negative,Bored,No,Yes,No
+22,Bachelor Level,Male,3.76,4.37,19,Mobile,1,Yes,4,COC,Regular,Unpaid,1,negative,Excited,No,No,No
+20,Bachelor Level,Male,3.02,4.28,22,PC,0,No,3,IGA,Not regular,Unpaid,1,positive,Bored,Yes,No,Yes
+23,Bachelor Level,Female,3.97,4.88,19,PC,1,Yes,1,PUBG,Regular,Unpaid,3,negative,Bored,No,No,Yes
+22,Bachelor Level,Female,3.77,4.15,19,PC,0,Yes,2,PES,Not regular,Paid,2,negative,Bored,Yes,No,Yes
+20,Bachelor Level,Male,3.49,4.13,17,Mobile,2,Yes,3,FREE FIRE,Regular,Paid,3,negative,Bored,No,Yes,No
+24,Master's Level,Male,3.05,4.93,22,PC,0,Yes,2,CALL OF DUTY,Not regular,Paid,3,negative,Bored,No,No,No
+19,Bachelor Level,Male,3.4,4.36,21,Mobile,22,Yes,1,FREE FIRE,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+22,Bachelor Level,Female,2.99,4.68,21,Mobile,0,No,3,FIFA,Regular,Unpaid,1,negative,Excited,No,No,Yes
+25,Master's Level,Female,2.88,4.23,19,Mobile,2,No,1,FIFA,Regular,Paid,1,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Female,3.23,3.73,20,PC,2,Yes,3,FIFA,Regular,Unpaid,1,negative,Bored,No,No,No
+26,Master's Level,Female,3.96,4.82,17,Mobile,22,Yes,1,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,No,No
+23,Bachelor Level,Female,2.64,3.84,21,Mobile,1,No,4,FIFA,Not regular,Unpaid,3,negative,Bored,No,No,No
+23,Bachelor Level,Male,3.59,4.34,18,PC,0,No,2,FIFA,Regular,Paid,4,negative,Excited,Yes,No,Yes
+26,Master's Level,Male,3.43,3.24,16,Mobile,1,No,3,FREE FIRE,Regular,Paid,3,negative,Bored,Yes,No,No
+21,Bachelor Level,Female,2.63,4.1,16,PC,2,No,6,CALL OF DUTY,Regular,Paid,1,positive,Excited,No,Yes,No
+24,Master's Level,Female,2.65,3.69,16,Mobile,1,No,5,COC,Regular,Unpaid,4,positive,Excited,No,No,No
+25,Master's Level,Female,2.94,3.98,21,PC,0,Yes,3,IGA,Regular,Paid,3,positive,Excited,No,No,Yes
+22,Bachelor Level,Female,3.35,4.16,17,PC,2,No,6,FIFA,Not regular,Paid,2,positive,Excited,Yes,No,No
+24,Master's Level,Male,3.04,4.32,20,Mobile,22,Yes,2,PUBG,Regular,Unpaid,3,negative,Bored,Yes,No,No
+24,Master's Level,Male,2.57,4.64,17,PC,0,Yes,4,PUBG,Not regular,Paid,2,negative,Excited,No,Yes,No
+21,Bachelor Level,Female,3.8,5,16,Mobile,1,Yes,1,FREE FIRE,Not regular,Paid,4,positive,Bored,Yes,No,No
+23,Bachelor Level,Male,3.24,4.14,21,PC,1,No,2,IGA,Regular,Unpaid,1,negative,Bored,Yes,No,Yes
+18,Bachelor Level,Male,3.86,3.98,16,Mobile,22,No,4,FREE FIRE,Not regular,Unpaid,1,negative,Excited,No,Yes,No
+19,Bachelor Level,Male,3.78,3.63,18,PC,23,No,3,CALL OF DUTY,Not regular,Paid,1,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,2.76,3.83,20,Mobile,2,Yes,5,IGA,Regular,Paid,1,negative,Bored,No,No,No
+25,Master's Level,Female,3.71,3.8,20,Mobile,1,No,5,PES,Not regular,Unpaid,4,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Female,3.01,3.87,22,PC,2,Yes,1,PUBG,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Male,2.58,4.05,19,PC,23,No,1,CALL OF DUTY,Regular,Unpaid,3,negative,Excited,Yes,No,No
+26,Master's Level,Female,2.68,4.28,19,Mobile,23,Yes,3,IGA,Not regular,Unpaid,3,negative,Excited,Yes,No,Yes
+26,Master's Level,Female,2.75,3.11,17,Mobile,22,No,2,PUBG,Regular,Paid,2,positive,Bored,No,Yes,No
+24,Master's Level,Female,3.27,4.29,17,PC,1,Yes,3,CALL OF DUTY,Regular,Paid,2,negative,Excited,No,No,Yes
+20,Bachelor Level,Male,3.46,4.95,22,PC,0,Yes,4,PUBG,Regular,Unpaid,4,negative,Bored,No,No,No
+18,Bachelor Level,Female,3.72,3.58,21,PC,23,Yes,4,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Female,2.77,4.14,22,Mobile,22,No,6,FREE FIRE,Regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Female,3.27,4.33,17,PC,22,No,1,PES,Not regular,Paid,4,negative,Bored,No,Yes,No
+20,Bachelor Level,Male,3.12,4.11,18,Mobile,23,Yes,1,PUBG,Regular,Paid,4,negative,Excited,Yes,Yes,No
+24,Master's Level,Female,3.85,5,18,Mobile,2,No,5,FIFA,Not regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Male,2.62,3.69,16,PC,1,No,2,PES,Not regular,Paid,1,negative,Bored,Yes,No,Yes
+26,Master's Level,Female,2.5,3.69,18,PC,2,No,4,FIFA,Regular,Unpaid,2,negative,Bored,Yes,Yes,Yes
+24,Master's Level,Female,3.67,4.02,22,Mobile,2,Yes,1,FIFA,Not regular,Paid,3,positive,Bored,No,No,Yes
+19,Bachelor Level,Male,3,4,19,PC,0,No,3,FREE FIRE,Regular,Paid,4,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.71,4.72,16,Mobile,2,Yes,4,PUBG,Regular,Paid,2,positive,Excited,No,Yes,No
+23,Bachelor Level,Male,3.29,5,19,Mobile,1,No,4,IGA,Not regular,Paid,2,negative,Bored,Yes,No,Yes
+25,Master's Level,Male,3.69,5,17,Mobile,1,Yes,3,PUBG,Regular,Unpaid,4,negative,Excited,Yes,No,Yes
+24,Master's Level,Female,2.63,4,22,Mobile,0,Yes,1,FREE FIRE,Regular,Paid,3,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3.74,4.57,19,PC,0,No,1,CALL OF DUTY,Regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.2,3.24,21,PC,1,No,5,PUBG,Not regular,Unpaid,1,negative,Bored,No,Yes,No
+24,Master's Level,Male,2.72,4.41,19,Mobile,1,No,4,PES,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+21,Bachelor Level,Female,3.55,4.7,20,Mobile,22,Yes,1,PES,Not regular,Paid,4,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Male,3.83,3.36,19,PC,23,Yes,6,PES,Regular,Paid,4,negative,Excited,No,No,No
+24,Master's Level,Male,3.97,3.04,21,PC,22,No,3,PUBG,Not regular,Paid,3,negative,Excited,No,No,No
+22,Bachelor Level,Female,3.68,3.13,17,Mobile,22,Yes,2,PUBG,Regular,Unpaid,3,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,3.52,4.66,16,PC,1,No,4,PUBG,Not regular,Paid,2,negative,Excited,No,Yes,Yes
+26,Master's Level,Male,2.85,3.48,22,Mobile,2,Yes,3,PES,Regular,Unpaid,4,negative,Bored,Yes,Yes,No
+25,Master's Level,Female,3.99,4.01,20,PC,22,No,4,PES,Not regular,Paid,3,negative,Bored,No,No,Yes
+24,Master's Level,Female,3.81,3.34,16,Mobile,0,No,4,IGA,Regular,Paid,4,positive,Excited,Yes,No,No
+18,Bachelor Level,Female,3.85,4.02,18,PC,1,No,1,FREE FIRE,Regular,Paid,1,negative,Bored,Yes,Yes,Yes
+19,Bachelor Level,Female,3.92,3.98,18,Mobile,0,No,4,IGA,Not regular,Unpaid,2,positive,Bored,Yes,No,No
+21,Bachelor Level,Female,2.73,3.08,19,PC,2,Yes,1,PES,Regular,Unpaid,1,negative,Bored,No,Yes,No
+22,Bachelor Level,Male,3.76,4.37,19,Mobile,1,Yes,4,COC,Regular,Unpaid,1,negative,Excited,No,No,No
+20,Bachelor Level,Male,2,4,22,PC,0,No,3,IGA,Not regular,Unpaid,1,positive,Bored,Yes,No,Yes
+23,Bachelor Level,Female,3.97,4.88,19,PC,1,Yes,1,PUBG,Regular,Unpaid,3,negative,Bored,No,No,Yes
+22,Bachelor Level,Female,3.77,4.15,19,PC,0,Yes,2,PES,Not regular,Paid,2,negative,Bored,Yes,No,Yes
+20,Bachelor Level,Male,3.49,4.13,17,Mobile,2,Yes,3,FREE FIRE,Regular,Paid,3,negative,Bored,No,Yes,No
+24,Master's Level,Male,3.05,4.93,22,PC,0,Yes,2,CALL OF DUTY,Not regular,Paid,3,negative,Bored,No,No,No
+19,Bachelor Level,Male,3.4,4.36,21,Mobile,22,Yes,1,FREE FIRE,Not regular,Unpaid,4,negative,Excited,No,Yes,Yes
+22,Bachelor Level,Female,2.99,4.68,21,Mobile,0,No,3,FIFA,Regular,Unpaid,1,negative,Excited,No,No,Yes
+25,Master's Level,Female,2.88,4.23,19,Mobile,2,No,1,FIFA,Regular,Paid,1,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Female,3.23,3.73,20,PC,2,Yes,3,FIFA,Regular,Unpaid,1,negative,Bored,No,No,No
+26,Master's Level,Female,3.96,4.82,17,Mobile,22,Yes,1,FREE FIRE,Regular,Unpaid,4,negative,Excited,Yes,No,No
+23,Bachelor Level,Female,2.64,3.84,21,Mobile,1,No,4,FIFA,Not regular,Unpaid,3,negative,Bored,No,No,No
+23,Bachelor Level,Male,3.59,4.34,18,PC,0,No,2,FIFA,Regular,Paid,4,negative,Excited,Yes,No,Yes
+26,Master's Level,Male,3.43,3.24,16,Mobile,1,No,3,FREE FIRE,Regular,Paid,3,negative,Bored,Yes,No,No
+21,Bachelor Level,Female,2.63,4.1,16,PC,2,No,6,CALL OF DUTY,Regular,Paid,1,positive,Excited,No,Yes,No
+24,Master's Level,Female,2.65,3.69,16,Mobile,1,No,5,COC,Regular,Unpaid,4,positive,Excited,No,No,No
+25,Master's Level,Female,2.94,3.98,21,PC,0,Yes,3,IGA,Regular,Paid,3,positive,Excited,No,No,Yes
+22,Bachelor Level,Female,3.35,4.16,17,PC,2,No,6,FIFA,Not regular,Paid,2,positive,Excited,Yes,No,No
+24,Master's Level,Male,3.04,4.32,20,Mobile,22,Yes,2,PUBG,Regular,Unpaid,3,negative,Bored,Yes,No,No
+24,Master's Level,Male,2.57,4.64,17,PC,0,Yes,4,PUBG,Not regular,Paid,2,negative,Excited,No,Yes,No
+21,Bachelor Level,Female,3.8,4.6,16,Mobile,1,Yes,1,FREE FIRE,Not regular,Paid,4,positive,Bored,Yes,No,No
+23,Bachelor Level,Male,3.24,4.14,21,PC,1,No,2,IGA,Regular,Unpaid,1,negative,Bored,Yes,No,Yes
+18,Bachelor Level,Male,3.86,3.98,16,Mobile,22,No,4,FREE FIRE,Not regular,Unpaid,1,negative,Excited,No,Yes,No
+19,Bachelor Level,Male,3.78,3.63,18,PC,23,No,3,CALL OF DUTY,Not regular,Paid,1,negative,Excited,Yes,Yes,No
+19,Bachelor Level,Female,2.76,3.83,20,Mobile,2,Yes,5,IGA,Regular,Paid,1,negative,Bored,No,No,No
+25,Master's Level,Female,3.71,3.8,20,Mobile,1,No,5,PES,Not regular,Unpaid,4,negative,Excited,Yes,Yes,Yes
+19,Bachelor Level,Female,3.01,3.87,22,PC,2,Yes,1,PUBG,Not regular,Paid,2,negative,Excited,Yes,Yes,No
+20,Bachelor Level,Male,2.58,4.05,19,PC,23,No,1,CALL OF DUTY,Regular,Unpaid,3,negative,Excited,Yes,No,No
+26,Master's Level,Female,2.68,4.28,19,Mobile,23,Yes,3,IGA,Not regular,Unpaid,3,negative,Excited,Yes,No,Yes
+26,Master's Level,Female,2.75,3.11,17,Mobile,22,No,2,PUBG,Regular,Paid,2,positive,Bored,No,Yes,No
+24,Master's Level,Female,3.27,4.29,17,PC,1,Yes,3,CALL OF DUTY,Regular,Paid,2,negative,Excited,No,No,Yes
+20,Bachelor Level,Male,3.46,4.95,22,PC,0,Yes,4,PUBG,Regular,Unpaid,4,negative,Bored,No,No,No
+18,Bachelor Level,Female,3.72,3.58,21,PC,23,Yes,4,PUBG,Regular,Unpaid,2,negative,Bored,No,Yes,No
+19,Bachelor Level,Female,2.77,4.14,22,Mobile,22,No,6,FREE FIRE,Regular,Unpaid,2,negative,Excited,Yes,Yes,Yes
+22,Bachelor Level,Female,3.27,4.33,17,PC,22,No,1,PES,Not regular,Paid,4,negative,Bored,No,Yes,No
+20,Bachelor Level,Male,3.12,4.11,18,Mobile,23,Yes,1,PUBG,Regular,Paid,4,negative,Excited,Yes,Yes,No
+24,Master's Level,Female,3.85,4.95,18,Mobile,2,No,5,FIFA,Not regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Male,2.62,3.69,16,PC,1,No,2,PES,Not regular,Paid,1,negative,Bored,Yes,No,Yes
+26,Master's Level,Female,3.87,3.69,18,PC,2,No,4,FIFA,Regular,Unpaid,2,negative,Bored,Yes,Yes,Yes
+24,Master's Level,Female,3.67,4.02,22,Mobile,2,Yes,1,FIFA,Not regular,Paid,3,positive,Bored,No,No,Yes
+19,Bachelor Level,Male,3,3.61,19,PC,0,No,3,FREE FIRE,Regular,Paid,4,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.71,4.72,16,Mobile,2,Yes,4,PUBG,Regular,Paid,2,positive,Excited,No,Yes,No
+23,Bachelor Level,Male,3.29,5,19,Mobile,1,No,4,IGA,Not regular,Paid,2,negative,Bored,Yes,No,Yes
+25,Master's Level,Male,3.69,5,17,Mobile,1,Yes,3,PUBG,Regular,Unpaid,4,negative,Excited,Yes,No,Yes
+24,Master's Level,Female,2.63,3.07,22,Mobile,0,Yes,1,FREE FIRE,Regular,Paid,3,negative,Excited,Yes,Yes,Yes
+23,Bachelor Level,Female,3.74,4.57,19,PC,0,No,1,CALL OF DUTY,Regular,Paid,2,positive,Bored,Yes,No,Yes
+20,Bachelor Level,Female,3.2,3.24,21,PC,1,No,5,PUBG,Not regular,Unpaid,1,negative,Bored,No,Yes,No
+24,Master's Level,Male,2.72,4.41,19,Mobile,1,No,4,PES,Regular,Paid,2,negative,Excited,Yes,Yes,Yes
+21,Bachelor Level,Female,3.55,5,20,Mobile,22,Yes,1,PES,Not regular,Paid,4,negative,Excited,Yes,Yes,No
+22,Bachelor Level,Male,3.83,3.36,19,PC,23,Yes,6,PES,Regular,Paid,4,negative,Excited,No,No,No
+24,Master's Level,Male,3.97,5,21,PC,22,No,3,PUBG,Not regular,Paid,3,negative,Excited,No,No,No
