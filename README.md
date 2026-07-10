@@ -29,7 +29,8 @@ Data comes from football.db's [worldcup](https://github.com/openfootball/worldcu
 ## Predicting Dropouts from MOOC Courses
 
 ### Setup
-The raw MOOC log files are too large to store in this GitHub repository. To run this project, download the raw data files separately and place them in the `MOOC/raw/` folder. 
+The full MOOC dataset would be too large to fit in a repo. Build it locally.
+
 1. Install [R](https://cran.r-project.org/)
 2.  Access the download link [here](http://moocdata.cn/data/user-activity#User%20Activity). Click the download link for the "Dropout Prediction Dataset".
 3. The downloaded file is a .gz file. See if you are able to open it on your computer and unzip it. If not, search for instructions online for your Operating System. The only files you need from this .gz file are `train_log.csv` and `test_log.csv`.
