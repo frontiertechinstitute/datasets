@@ -25,3 +25,26 @@ Dataset: **"worldcup_2022_matches.csv"**
  - 9 variables and 60 observations
 ### Documentation
 Data comes from football.db's [worldcup](https://github.com/openfootball/worldcup) repo in the 2022--qatar folder, which has been copied to our World Cup/data folder. Any confusion with the data presented in the dataset should be resolved by reading the original text files, *cup.txt* and *cup_finals.txt*, and the code in *make_csv.R* (you can review text processing and *regular expressions* [here](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)). 
+
+## Predicting Dropouts from MOOC Courses
+
+# MOOC Dropout Dataset Setup
+
+The raw MOOC log files are too large to store in this GitHub repository. To run this project, download the raw data files separately and place them in the `MOOC/raw/` folder. 
+* Access the download link [here](http://moocdata.cn/data/user-activity#User%20Activity). Click the download link for the "Dropout Prediction Dataset".
+* The downloaded file is a .gz file. See if you are able to open it on your computer and unzip it. If not, search for instructions online for your Operating System. The only files you need from this .gz file are `train_log.csv` and `test_log.csv`.
+* In GitHub, you already have `test_truth.csv` and `train_truth.csv` in the MOOC folder. Download these files in GitHub locally in your computer, along with `make.R`. Place the files in folders so that they are organized the same way that they are in the repo. Drag and drop `train_log.csv` and `test_log.csv` into the raw folder. 
+
+#### Folder structure
+
+Your folder should look like this:
+
+```text
+MOOC/
+  raw/
+    train_log.csv
+    test_log.csv
+    train_truth.csv
+    test_truth.csv
+  make.R
+
