@@ -44,6 +44,7 @@ MOOC/
     train_truth.csv
     test_truth.csv
   make.R
+```
 5. Double-click `build_dataset.bat`.
 
 
