@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .positai
+MOOC/dropout_full.csv
+MOOC/raw/train_log.csv
+MOOC/raw/test_log.csv
