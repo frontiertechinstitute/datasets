@@ -34,7 +34,7 @@ The full MOOC dataset would be too large to fit in a repo. Build it locally.
 1. Install [R](https://cran.r-project.org/)
 2.  Access the download link [here](http://moocdata.cn/data/user-activity#User%20Activity). Click the download link for the "Dropout Prediction Dataset".
 3. The downloaded file is a .gz file. See if you are able to open it on your computer and unzip it. If not, search for instructions online for your Operating System. The only files you need from this .gz file are `train_log.csv` and `test_log.csv`.
-4. In GitHub, you already have `test_truth.csv` and `train_truth.csv` in the MOOC folder. Download these files in GitHub locally in your computer, along with `make.R`. Place the files in folders so that they are organized the same way that they are in the repo. Drag and drop `train_log.csv` and `test_log.csv` into the raw folder.
+4. In GitHub, you already have `test_truth.csv` and `train_truth.csv` in the MOOC folder. Download these files in GitHub locally in your computer, along with `make.R` and `build_dataset.bat`. Place the files in folders so that they are organized the same way that they are in the repo. Drag and drop `train_log.csv` and `test_log.csv` into the raw folder.
 Your folder should look like this:
 ```text
 MOOC/
@@ -44,6 +44,7 @@ MOOC/
     train_truth.csv
     test_truth.csv
   make.R
+  build_dataset.bat
 ```
 5. Double-click `build_dataset.bat`.
 
